@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: homepage_rccpii.jpg
+  image_fullwidth: homepage_rccpii_learn.jpg
 widget1:
   title: "Connect"
   url: 'https://tenet-rccpii/rccpii-capdev-2018/connect'
