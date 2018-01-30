@@ -38,8 +38,8 @@ widget4:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://calendar.google.com/calendar/embed?src=beg31jqblfp9bb2sd8eba2fpgs%40group.calendar.google.com&ctz=Africa%2FJohannesburg
+  text: View and subscribe to the RCCP II events calendar ›
   style: alert
 permalink: /index.html
 #
