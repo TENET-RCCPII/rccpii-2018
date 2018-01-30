@@ -10,7 +10,6 @@ breadcrumb: true
 categories:
     - carpentries
 tags:
-    - blog
     - Software Carpentry
     - Data Carpentry
     - Instructor Training
@@ -21,9 +20,9 @@ author: Anelda van der Walt
 ---
 In 2016 and 2017 three Software, Data, and Library Carpentry instructor training events 
 were run in South Africa. These train-the-trainers events were well-attended by researchers, 
-IT staff as well as librarians from a wide range of universities and even companies all over the country and even other African countries. From 21 - 23 February coders and data analysts will be able to participate in the fourth in-person training event. 
+IT staff as well as librarians. Participants came from a wide range of universities and companies from all over the country and even from other African countries. 
 
-Carpentry instructor training aims to teach those who can already use tools such as R, Python, Shell, Git, Matlab, and 
+[Carpentry instructor training](https://carpentries.github.io/instructor-training/) aims to teach those who can already use tools such as R, Python, Shell, Git, Matlab, and 
 OpenRefine, to become better teachers of these tools. The Carpentries' lessons are specifically aimed
 at people who work in research settings. The training includes topics such as assessment, how learning works, how to organise and run a Carpentry workshop, and more. It does not teach the tools itself. 
 

@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="The Rural Campus Connectivity Project is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.">
+	<meta name="description" content="The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="The Rural Campus Connectivity Project is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.">
+	<meta property="og:description" content="The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.">
 	<meta property="og:url" content="http://localhost:4000/rccpii-capdev-2018/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -58,7 +58,7 @@
 	<meta name="twitter:site" content="rccpii">
 	<meta name="twitter:creator" content="rccpii">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="The Rural Campus Connectivity Project is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.">
+	<meta name="twitter:description" content="The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.">
 	
 	
 
@@ -401,7 +401,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              The Rural Campus Connectivity Project is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.
+              The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.
               <a href="http://localhost:4000/rccpii-capdev-2018/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

@@ -14,7 +14,7 @@ title: 'RCCP II Capacity Development 2018'
 slogan: 'Connect. Communicate. Collaborate. Convert.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'The Rural Campus Connectivity Project is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.'
+description: 'The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'

@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: homepage_rccpii.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Connect"
+  url: 'https://tenet-rccpii/rccpii-capdev-2018/connect'
+  image: connect.jpg
+  text: 'Since 2010 <em>RCCP I</em> and <em>RCCP II</em> have been working with stakeholders to bring Internet connectivity to various higher education and research sites around South Africa. Learn more about the project.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -22,6 +22,11 @@ widget3:
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+widget4:
+  title: "Convert"
+  url: 'https://tenet-rccpii/rccpii-capdev-2018/convert'
+  image: convert.jpg
+  text: '<em>RCCP II</em> aims to help university staff understand open licences and discover open data, images, educational materials, software, and more which can be re-used and adapted to suit local needs and will help to save time and money in teaching and learning as well as research.'
 #
 # Use the call for action to show a button on the frontpage
 #
