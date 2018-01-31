@@ -23,7 +23,8 @@ header:
 >
 >    How to program in R or Python, use git, or any of the other topics taught in Carpentry workshops.
 >    How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you’re inspired to learn more).
-<div style="text-align: right"><em>[https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/) </em></div>
+
+<em>Adopted from [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)</em>
 
 ## What is happening in South Africa?
 
