@@ -9,17 +9,17 @@ header:
   image_fullwidth: homepage_rccpii_learn.jpg
 widget1:
   title: "Getting Connected"
-  url: 'https://tenet-rccpii/rccpii-capdev-2018/about'
+  url: 'https://tenet-rccpii.github.io/rccpii-capdev-2018/about'
   image: connect.jpg
   text: 'Since 2010 <em>RCCP I</em> and <em>RCCP II</em> have been working with stakeholders to bring Internet connectivity to various higher education and research sites around South Africa. The project is a collaboration between DHET, USAF, TENET, and others.'
 widget2:
   title: "Communicate & Collaborate"
-  url: 'https://tenet-rccpii/rccpii-capdev-2018/enablers'
+  url: 'https://tenet-rccpii.github.io/rccpii-capdev-2018/enablers'
   text: 'In 2018 <em>RCCP II</em> will have a large capacity development component. Researchers, students, as well as IT and Library staff will have an opportunity to meet in person and virtually to learn about new concepts and tools applicable to their work in modern day academia and beyond.'
   image: collaborate.jpg
 widget3:
   title: "Convert and Reuse"
-  url: 'https://tenet-rccpii/rccpii-capdev-2018/carpentry'
+  url: 'https://tenet-rccpii.github.io/rccpii-capdev-2018/carpentry'
   image: convert.jpg
   text: '<em>RCCP II</em> workshops and training aim to clarify open licences and encourage the re-use of openly shared data, software, scripts, images, training materials and more.'
 #
