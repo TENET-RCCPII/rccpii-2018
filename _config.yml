@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'RCCP II Capacity Development 2018'
+title: 'The Rural Campus Connectivity Project 2018'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Connect. Communicate. Collaborate. Convert.'
@@ -26,11 +26,11 @@ author: Talarify
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://tenet-rccpii.github.io'
-baseurl: '/rccpii-capdev-2018'
+baseurl: '/rccpii-2018'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/tenet-rccpii/rccpii-capdev-2018/edit/gh-pages
+improve_content: https://github.com/tenet-rccpii/rccpii-2018/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/tenet-rccpii/rccpii-capdev-2018/edit/gh-page
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://tenet-rccpii.github.io/rccpii-capdev-2018/images/'
+urlimg: 'https://tenet-rccpii.github.io/rccpii-2018/images/'
 
 
 # Logo size is 600x80 pixels
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Talarify     # Default author for posts
 
 
 
@@ -177,7 +177,7 @@ msapplication_tilecolor: '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image: 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+#og_image: 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
 og_locale: 'en_EN'
 og_type: 'website'
 
