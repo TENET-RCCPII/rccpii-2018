@@ -2,36 +2,28 @@
   url: "/"
   side: left
 
-- title: About RCCPII
+- title: About
   url: "/about/"
   side: left
+  dropdown:
+  - title: "Collaborators"
+    url: "/about/collaborators/"
 
-- title: "eResearch Conversations"
+- title: Connectivity
+  url: "/connectivity/"
+  side: left
+  dropdown:
+  - title: "Connected sites"
+  - url: "/connectivity/sites/"
+  - title: "Planned sites"
+  - url: "/connectivity/planned/"
+
+- title: eResearch Conversations
   url: "/erescon/"
   side: left
   dropdown:
- # - title: "Grid & Colors"
- #   url: "/design/grid/"
- # - title: "Typography"
- #   url: "/design/typography/typography/"
- # - title: "Page/Post"
- #   url: "/design/page/"
- # - title: "Post-Left-Sidebar"
- #   url: "/design/post-left-sidebar/"
- # - title: "Post-Right-Sidebar"
- #   url: "/design/post-right-sidebar/"
- # - title: "Page Full-Width"
- #   url: "/design/page-fullwidth/"
- # - title: "Blog-Page"
- #   url: "/blog/"
- # - title: "Video"
- #   url: "/design/video/"
- # - title: "Gallery"
- #   url: "/design/gallery/"
- # - title: "Portfolio"
- #   url: "/design/portfolio/"
 
-- title: "Carpentry Workshops"
+- title: Carpentry Workshops
   url: "/carpentry/"
   side: left
   dropdown:
@@ -40,7 +32,7 @@
   - title: "Programming and Data Analyis"
     url: "/carpentry/programming/"
 
-- title: Research Enablers
+- title: Enablers Workshops
   url: "/enablers/"
   side: left
 

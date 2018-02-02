@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/404.html</loc>
+	<loc>http://localhost:4000/rccpii-2018/404.html</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/about/</loc>
-	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/blog/archive/</loc>
+	<loc>http://localhost:4000/rccpii-2018/about/</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,12 +34,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/atom.xml</loc>
+	<loc>http://localhost:4000/rccpii-2018/blog/archive/</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,9 +52,26 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/carpentry/</loc>
+	<loc>http://localhost:4000/rccpii-2018/atom.xml</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/rccpii-2018/carpentry/</loc>
+	
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/contact/</loc>
+	<loc>http://localhost:4000/rccpii-2018/contact/</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/enablers/</loc>
-	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/erescon/</loc>
+	<loc>http://localhost:4000/rccpii-2018/enablers/</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/feed.xml</loc>
-	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -144,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/humans.txt</loc>
+	<loc>http://localhost:4000/rccpii-2018/erescon/</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/blog/</loc>
-	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -174,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/</loc>
+	<loc>http://localhost:4000/rccpii-2018/feed.xml</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/carpentry/instructor/</loc>
-	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -204,43 +144,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/carpentry/programming/</loc>
+	<loc>http://localhost:4000/rccpii-2018/humans.txt</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/robots.txt</loc>
-	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/search/</loc>
-	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -253,9 +159,103 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/sitemap.xml</loc>
+	<loc>http://localhost:4000/rccpii-2018/blog/</loc>
 	
-		<lastmod>2018-01-31T07:20:24+02:00</lastmod>
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/rccpii-2018/</loc>
+	
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/rccpii-2018/carpentry/instructor/</loc>
+	
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/rccpii-2018/carpentry/programming/</loc>
+	
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/rccpii-2018/robots.txt</loc>
+	
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/rccpii-2018/search/</loc>
+	
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/rccpii-2018/sitemap.xml</loc>
+	
+		<lastmod>2018-02-02T11:27:11+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -273,7 +273,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/rccpii-capdev-2018/carpentries/instructor/</loc>
+	<loc>http://localhost:4000/rccpii-2018/carpentries/instructor/</loc>
 	
 		<lastmod>2018-01-30T00:00:00+02:00</lastmod>
 	

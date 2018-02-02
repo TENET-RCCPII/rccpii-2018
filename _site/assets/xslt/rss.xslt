@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/rccpii-capdev-2018/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/rccpii-2018/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/rccpii-capdev-2018/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/rccpii-2018/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,16 +38,16 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/rccpii-capdev-2018/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/rccpii-2018/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.">
-	<meta property="og:url" content="http://localhost:4000/rccpii-capdev-2018/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/rccpii-2018/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="RCCP II Capacity Development 2018">
+	<meta property="og:site_name" content="The Rural Campus Connectivity Project 2018">
 	
 	
 
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/rccpii-capdev-2018/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/rccpii-2018/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/rccpii-capdev-2018/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/rccpii-2018/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/rccpii-capdev-2018/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/rccpii-2018/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/rccpii-capdev-2018/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/rccpii-2018/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/rccpii-capdev-2018/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/rccpii-2018/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/rccpii-capdev-2018/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/rccpii-2018/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/rccpii-capdev-2018/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/rccpii-2018/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/rccpii-capdev-2018/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/rccpii-2018/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/rccpii-capdev-2018/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/rccpii-2018/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/rccpii-capdev-2018/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/rccpii-2018/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/rccpii-capdev-2018/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/rccpii-2018/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/rccpii-capdev-2018/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/rccpii-2018/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -105,7 +105,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/rccpii-capdev-2018" class="icon-tree"> RCCP II Capacity Development 2018</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/rccpii-2018" class="icon-tree"> The Rural Campus Connectivity Project 2018</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -155,10 +155,16 @@
 
           
           
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/rccpii-capdev-2018/search/">Search</a></li>
+              <li><a  href="http://localhost:4000/rccpii-2018/search/">Search</a></li>
 
             
             
@@ -172,7 +178,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/rccpii-capdev-2018/contact/">Contact</a></li>
+              <li><a  href="http://localhost:4000/rccpii-2018/contact/">Contact</a></li>
 
             
             
@@ -191,37 +197,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/rccpii-capdev-2018/">Home</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/rccpii-capdev-2018/about/">About RCCPII</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/rccpii-capdev-2018/erescon/">eResearch Conversations</a></li>
+              <li><a  href="http://localhost:4000/rccpii-2018/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -238,19 +214,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/rccpii-capdev-2018/carpentry/">Carpentry Workshops</a>
+                <a  href="http://localhost:4000/rccpii-2018/about/">About</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/rccpii-capdev-2018/carpentry/instructor/">Instructor Training</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/rccpii-capdev-2018/carpentry/programming/">Programming and Data Analyis</a></li>
+                      <li><a  href="http://localhost:4000/rccpii-2018/about/collaborators/">Collaborators</a></li>
                     
                   </ul>
 
@@ -267,7 +238,48 @@
 
             
             
-              <li><a  href="http://localhost:4000/rccpii-capdev-2018/enablers/">Research Enablers</a></li>
+
+              <li class="has-dropdown">
+                <a  href="http://localhost:4000/rccpii-2018/connectivity/">Connectivity</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/rccpii-2018">Connected sites</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/rccpii-2018/connectivity/sites/"></a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/rccpii-2018">Planned sites</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/rccpii-2018/connectivity/planned/"></a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/rccpii-2018/erescon/">eResearch Conversations</a></li>
               <li class="divider"></li>
 
             
@@ -284,14 +296,60 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/rccpii-capdev-2018/blog/">Blog</a>
+                <a  href="http://localhost:4000/rccpii-2018/carpentry/">Carpentry Workshops</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/rccpii-capdev-2018/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://localhost:4000/rccpii-2018/carpentry/instructor/">Instructor Training</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/rccpii-2018/carpentry/programming/">Programming and Data Analyis</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/rccpii-2018/enablers/">Enablers Workshops</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="http://localhost:4000/rccpii-2018/blog/">Blog</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/rccpii-2018/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -324,8 +382,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/rccpii-capdev-2018/" title="RCCP II Capacity Development 2018 – Connect. Communicate. Collaborate. Convert.">
-				<img src="http://localhost:4000/rccpii-capdev-2018/assets/img/logo.png" alt="RCCP II Capacity Development 2018 – Connect. Communicate. Collaborate. Convert.">
+			<a id="logo" href="http://localhost:4000/rccpii-2018/" title="The Rural Campus Connectivity Project 2018 – Connect. Communicate. Collaborate. Convert.">
+				<img src="http://localhost:4000/rccpii-2018/assets/img/logo.png" alt="The Rural Campus Connectivity Project 2018 – Connect. Communicate. Collaborate. Convert.">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -403,7 +461,7 @@
 
             <p class="shadow-black">
               The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.
-              <a href="http://localhost:4000/rccpii-capdev-2018/info/">More ›</a>
+              <a href="http://localhost:4000/rccpii-2018/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -427,27 +485,27 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/rccpii-capdev-2018"  title=""></a>
+                    <a href="http://localhost:4000/rccpii-2018"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/rccpii-capdev-2018/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/rccpii-2018/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/rccpii-capdev-2018/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/rccpii-2018/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/rccpii-capdev-2018/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/rccpii-2018/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/rccpii-capdev-2018/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/rccpii-2018/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -475,7 +533,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000/rccpii-capdev-2018"  title=""></a>
+                  <a href="http://localhost:4000/rccpii-2018"  title=""></a>
                 </li>
             
               
@@ -534,7 +592,7 @@
 		
 
 
-<script src="http://localhost:4000/rccpii-capdev-2018/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/rccpii-2018/assets/js/javascript.min.js"></script>
 
 
 

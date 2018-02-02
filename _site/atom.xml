@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/rccpii-capdev-2018/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/rccpii-capdev-2018/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/rccpii-2018/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/rccpii-2018/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/rccpii-capdev-2018/</id>
-	<title>RCCP II Capacity Development 2018</title>
-	<updated>2018-01-31T07:20:24+02:00</updated>
+	<id>http://localhost:4000/rccpii-2018/</id>
+	<title>The Rural Campus Connectivity Project 2018</title>
+	<updated>2018-02-02T11:27:11+02:00</updated>
 
 	<subtitle>The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/rccpii-capdev-2018/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/rccpii-capdev-2018/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/rccpii-2018/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/rccpii-2018/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/rccpii-capdev-2018/carpentries/instructor/</id>
+			<id>http://localhost:4000/rccpii-2018/carpentries/instructor/</id>
 			<title>First Carpentry Instructor Training for 2018</title>
-			<link href="http://localhost:4000/rccpii-capdev-2018/carpentries/instructor/" rel="alternate" type="text/html" title="First Carpentry Instructor Training for 2018" />
+			<link href="http://localhost:4000/rccpii-2018/carpentries/instructor/" rel="alternate" type="text/html" title="First Carpentry Instructor Training for 2018" />
 			<updated>2018-01-30T00:00:00+02:00</updated>
 
 			
@@ -42,7 +42,7 @@
 				</author>
 			
 			<summary>From 21 to 23 February 2018 researchers, postgraduate students, IT, and library staff will be able to learn how to teach programming at the fourth in-person Software and Data Carpentry Instructor Training workshop in South Africa.</summary>
-			<content type="html" xml:base="http://localhost:4000/rccpii-capdev-2018/carpentries/instructor/">&lt;p&gt;In 2016 and 2017 three Software, Data, and Library Carpentry instructor training events 
+			<content type="html" xml:base="http://localhost:4000/rccpii-2018/carpentries/instructor/">&lt;p&gt;In 2016 and 2017 three Software, Data, and Library Carpentry instructor training events 
 were run in South Africa. These train-the-trainers events were well-attended by researchers, 
 IT staff as well as librarians. Participants came from a wide range of universities and companies from all over the country and even from other African countries.&lt;/p&gt;
 
