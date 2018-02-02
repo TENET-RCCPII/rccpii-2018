@@ -223,6 +223,11 @@
 
                       <li><a  href="http://localhost:4000/rccpii-2018/about/collaborators/">Collaborators</a></li>
                     
+
+                      
+
+                      <li><a  href="http://localhost:4000/rccpii-2018/about/reports/">Reports</a></li>
+                    
                   </ul>
 
               </li>
