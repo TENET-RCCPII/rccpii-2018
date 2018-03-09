@@ -42,7 +42,7 @@ urlimg: 'https://tenet-rccpii.github.io/rccpii-2018/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo1.png"
+logo: "logo.png"
 
 # Gems
 gems:
