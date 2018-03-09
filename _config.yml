@@ -11,7 +11,7 @@
 title: 'The Rural Campus Connectivity Project 2018'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Connect. Communicate. Collaborate. Convert.'
+slogan: 'Connect. Collaborate. Capacitate.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'The Rural Campus Connectivity Project (RCCP II) is funded by the DHET, managed by Universities South Africa (USAF) and implemented by the Tertiary Research and Education Network (TENET) of SA. The capacity development initiatives are managed by Talarify. We aim to bring connectivity to tertiary education and research institutions and help them foster a culture of collaborative connectedness.'
@@ -42,7 +42,7 @@ urlimg: 'https://tenet-rccpii.github.io/rccpii-2018/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo1.png"
 
 # Gems
 gems:
