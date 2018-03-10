@@ -2,9 +2,9 @@
 layout: page
 title: "Research Enablers"
 teaser: "Throughout history academic institutions has been divided into cohorts consisting of either <em>academics</em> or <em>support staff</em>. We prefer to call support staff <em>enablers</em> and to help them become part of the research or teaching and learning team."
-permalink: "/enablers/"
+permalink: "/workshops/enablers/"
 header:
-    image_fullwidth: "header_enablers.jpg"
+    image_fullwidth: "whitebackground.png"
 ---
 
 ## What is a research enabler?
