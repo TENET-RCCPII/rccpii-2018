@@ -15,6 +15,10 @@
   url: "/econversations/"
   side: left
   dropdown:
+  - title: "IT Series"
+    url: "/econversations/it/"
+  - title: "General Series"
+    url: "/econversations/general/"
   - title: "FAQ: Video conferencing support"
     url: "/econversations/video-support/"
   - title: "FAQ: Video conferencing etiquette"
