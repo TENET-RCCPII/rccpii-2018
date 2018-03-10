@@ -6,37 +6,52 @@
   url: "/about/"
   side: left
   dropdown:
-  - title: "Collaborators"
-    url: "/about/collaborators/"
+  - title: "Governance"
+    url: "/about/governance/"
   - title: "Reports"
     url: "/about/reports/"
-- title: Connectivity
-  url: "/connectivity/"
+
+- title: "eConversation Series"
+  url: "/econversations/"
   side: left
   dropdown:
-  - title: "Connected sites"
-  - url: "/connectivity/sites/"
-  - title: "Planned sites"
-  - url: "/connectivity/planned/"
+  - title: "FAQ: Video conferencing support"
+    url: "/econversations/video-support/"
+  - title: "FAQ: Video conferencing etiquette"
+    url: "/econversations/video-etiquette"
+  - title: "FAQ: Video conferencing troubleshooting"
+    url: "/econversations/video-trouble/"
 
-- title: eResearch Conversations
-  url: "/erescon/"
+- title: "Workshops"
+  url: "/workshops/"
   side: left
   dropdown:
+  - title: "Programming & Data Analyis"
+    url: "/workshops/carpentries/"
+  - title: "Carpentries Instructor Training"
+    url: "/workshops/instructor-training/
+  - title: "ITIL"
+    url: "/workshops/itil/"
+  - title: "CSIRT"
+    url: "/workshops/csirt/"
+  - title: "Network Monitoring"
+    url: "/workshops/network/"
+  - title: "Research & T&L Enablers"
+    url: "/workshops/enablers/"
+  - title: "eLearning"
+    url: "/workshops/elearning/"
+     
 
-- title: Carpentry Workshops
-  url: "/carpentry/"
+- title: Mentorship
+  url: "/mentorship/"
   side: left
-  dropdown:
-  - title: "Instructor Training"
-    url: "/carpentry/instructor/"
-  - title: "Programming and Data Analyis"
-    url: "/carpentry/programming/"
-
-- title: Enablers Workshops
-  url: "/enablers/"
+  - title: "African Carpentries Task Force"
+    url: "/mentorship/african-tf/
+    
+- title: Funding
+  url: "/funding/"
   side: left
-
+  
 - title: Blog
   url: "/blog/"
   side: left
