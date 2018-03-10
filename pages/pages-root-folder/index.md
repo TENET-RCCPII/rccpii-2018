@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  background-color: "#ffffff"
+  image: "whitebackground.png"
 widget1:
   title: "Getting Connected"
   url: 'https://tenet-rccpii.github.io/rccpii-2018/connectivity'
