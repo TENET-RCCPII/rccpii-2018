@@ -49,8 +49,8 @@
   url: "/mentorship/"
   side: left
   dropdown:
-  - title: "African Carpentries Task Force"
-    url: "/mentorship/african-tf/"
+  - title: "Carpentries Task Force"
+    url: "/mentorship/carpentries-tf/"
     
 - title: "Funding"
   url: "/funding/"
