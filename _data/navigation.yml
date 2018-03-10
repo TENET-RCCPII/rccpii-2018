@@ -41,17 +41,17 @@
   - title: "eLearning"
     url: "/workshops/elearning/"
      
-- title: Mentorship
+- title: "Mentorship"
   url: "/mentorship/"
   side: left
   - title: "African Carpentries Task Force"
     url: "/mentorship/african-tf/
     
-- title: Funding
+- title: "Funding"
   url: "/funding/"
   side: left
   
-- title: Blog
+- title: "Blog"
   url: "/blog/"
   side: left
   dropdown:
