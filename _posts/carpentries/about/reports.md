@@ -14,10 +14,10 @@ header:
 
 ## Requests for Proposals
 
-- [RCCP II Phase Five Polokwane Fibre RFP](https://www.tenet.ac.za/news/rccp-ii-phase-five-polokwane-fibre-rfp) *Open*:
+- [RCCP II Phase Five Polokwane Fibre RFP](https://www.tenet.ac.za/news/rccp-ii-phase-five-polokwane-fibre-rfp) (**Open**):
   - Issue date: 26 February 2018
   - Closing date: 3 April 2018
-- [RCCP II Phase Four RFP](https://www.tenet.ac.za/doc/rccp-ii-phase-four-rfp-v2.0/) *Closed*:
+- [RCCP II Phase Four RFP](https://www.tenet.ac.za/doc/rccp-ii-phase-four-rfp-v2.0/) (**Closed**):
   - Issue date: 3 May 2017
   - Closing date: 18 May 2017
   
