@@ -4,7 +4,7 @@ title: "About RCCPII"
 teaser: "Since 2010 RCCP I and RCCP II have been working with stakeholders to bring Internet connectivity to various higher education and research sites around South Africa. The project is a collaboration between DHET, USAF, TENET, and others."
 permalink: "/about/"
 header:
-  background-color: white
+  image: "whitebackground.png"
    
 ---
 
