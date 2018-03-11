@@ -10,6 +10,10 @@
     url: "/about/governance/"
   - title: "Reports"
     url: "/about/reports/"
+    
+- title: "Connectivity"
+  url: "/connectivity/"
+  side: left
 
 - title: "eConversation Series"
   url: "/econversations/"
