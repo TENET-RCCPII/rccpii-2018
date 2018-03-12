@@ -14,14 +14,14 @@ widget1:
   text: 'Since 2010 <em>RCCP I</em> and <em>RCCP II</em> have been working with stakeholders to bring Internet connectivity to various higher education and research sites around South Africa. The project is a collaboration between DHET, USAF, TENET, and others.'
 widget2:
   title: "Communicate & Collaborate"
-  url: 'https://tenet-rccpii.github.io/rccpii-2018/enablers'
-  text: 'In 2018 <em>RCCP II</em> will have a large capacity development component. Researchers, students, as well as IT and Library staff will have an opportunity to meet in person and virtually to learn about new concepts and tools applicable to their work in modern day academia and beyond.'
+  url: 'https://tenet-rccpii.github.io/rccpii-2018/econversations'
+  text: 'In 2018 <em>RCCP II</em> will provide many opportunities for academic and support staff to get together and learn from each other and from various local and international experts. A large focus will be on online communication and collaboration. See you online!'
   image: collaborate.jpg
 widget3:
-  title: "Convert and Reuse"
-  url: 'https://tenet-rccpii.github.io/rccpii-2018/carpentry'
+  title: "Developing Human Capacity"
+  url: 'https://tenet-rccpii.github.io/rccpii-2018/images/RCCPII_ToC2018-03-12.pdf'
   image: convert.jpg
-  text: '<em>RCCP II</em> workshops and training aim to clarify open licences and encourage the re-use of openly shared data, software, scripts, images, training materials and more.'
+  text: 'Learn more about the <em>RCCP II</em> Capacity Development Initiative. We have developed a Theory of Change document to show exactly who the intended audiences are, what we aim to provide, how we will work and what the intended outcomes will be. We look forward to be working with our communities.'
 #
 # Use the call for action to show a button on the frontpage
 #
