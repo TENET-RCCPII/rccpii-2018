@@ -9,11 +9,11 @@ header:
 
 In the next few months several workshops will be coming to an institution near you. The following workshops are planned for 2018/2019:
 
-- [Software, Data, and Library Carpentry workshops]({{ site_url }}/workshops/carpentries/) to teach programming and data analysis
-- [ITIL workshops]( {{ site_url }}/workshops/itil/) for IT staff 
-- [Cyber Security workshops]({{ site_url }}/workshops/csirt/) for Computer Security Incidence Response Teams
-- [Network monitoring workshops]({{ site_url }}/workshops/network/) to monitor network traffic on the SANREN backbone
-- [Research & T&L Enablers workshops]({{ site_url }}/workshops/enablers/) to provide support staff (known as enablers) an opportunity to learn what happens inside other support divisions and to learn about resources that are useful to support them in the changing support landscape.
-- [eLearning event]({{ site_url }}/workshops/elearning/) that will be announced later in the year
+- [Software, Data, and Library Carpentry workshops]({{ site_url }}{{ base_url }}/workshops/carpentries/) to teach programming and data analysis
+- [ITIL workshops]( {{ site_url }}{{ base_url }}/workshops/itil/) for IT staff 
+- [Cyber Security workshops]({{ site_url }}{{ base_url }}/workshops/csirt/) for Computer Security Incidence Response Teams
+- [Network monitoring workshops]({{ site_url }}{{ base_url }}/workshops/network/) to monitor network traffic on the SANREN backbone
+- [Research & T&L Enablers workshops]({{ site_url }}{{ base_url }}/workshops/enablers/) to provide support staff (known as enablers) an opportunity to learn what happens inside other support divisions and to learn about resources that are useful to support them in the changing support landscape.
+- [eLearning event]({{ site_url }}{{ base_url }}/workshops/elearning/) that will be announced later in the year
 
 
