@@ -9,7 +9,7 @@ header:
 
 ## Connected Sites
 
-![Map showing beneficiary sites]({{ site.url }}{{ base.url }}/images/rccp-sites.png)
+![Map showing beneficiary sites]({{ site.url }}{{ site.baseurl }}/images/rccp-sites.png)
 
 Please visit the [interactive map](http://rpubs.com/anelda/rccp-sites) for more details.
 
