@@ -67,6 +67,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "Code of Conduct"
+  url: "/coc/"
+  side: left
+
 - title: "Search"
   url: "/search/"
   side: right
