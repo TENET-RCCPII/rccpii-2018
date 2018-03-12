@@ -1,21 +1,22 @@
 ---
 layout: page
-title: "Research Enablers"
-teaser: "Throughout history academic institutions has been divided into cohorts consisting of either <em>academics</em> or <em>support staff</em>. We prefer to call support staff <em>enablers</em> and to help them become part of the research or teaching and learning team."
+title: "Enablers' Workshops"
+teaser: "Throughout history academic institutions has been divided into cohorts consisting of either <em>academics</em> or <em>support staff</em>. Due to the changing landscapes the siloed approach is no longer effective and <em>enablers</em> need tobecome part of the research or teaching and learning teams. It is also critical that silos are broken down between support departments to minimise duplication and competition and optimise efficiency."
 permalink: "/workshops/enablers/"
 header:
     image_fullwidth: "whitebackground.png"
 ---
 
-## What is a research enabler?
+## What is an enabler?
 
-Research enablers are those people who might not be employed in an academic position within a tertiary
-education and research institution, but still play a major role in making research happen. Research enablers 
+Enablers in this context are those people who might not be employed in an academic position within a tertiary
+education and research institution, but still play a major role in making the core business of an academic institution happen. Enablers 
 can include staff in:
 
 - IT
 - libraries
 - research support office
+- teaching and learning technology groups
 - admissions
 - electronic services
 - archives
@@ -44,4 +45,8 @@ staff to enhance their research.
 ## What can enablers and academics expect this year?
 
 We will be running various sessions in 2018 to assist with building 
-bridges between academics and support staff in 2018. We look forward to hearing your suggestions and feedback.
+bridges between academics and support staff as well as empowering enablers by sharing insights into the changing landscapes or research and teaching and learning. We look forward to hearing your suggestions and feedback.
+
+Our materials will be developed under open licenses through collaborative processes. 
+
+The Github repository for the Enablers' Workshop Material is available at [https://github.com/TENET-RCCPII/EnablingAcademia](https://github.com/TENET-RCCPII/EnablingAcademia). 
