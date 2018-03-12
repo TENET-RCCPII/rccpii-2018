@@ -2,9 +2,9 @@
 layout: page
 title: "eConversations Series"
 teaser: "In 2017 the North-West University started running regular virtual conversation opportunities where topics relevant to today's teaching and learning and research environments were discussed with experts from all over the world. As part of <em>RCCP II</em> we would like to open these conversations up to all South African institutions."
-permalink: "/erescon/"
+permalink: "/econversations/"
 header:
-    image_fullwidth: "header_erescon.jpg"
+    image_fullwidth: "whitebackground.png"
 ---
 
 ## What is the eConversation Series?
