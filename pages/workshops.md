@@ -9,7 +9,7 @@ header:
 
 In the next few months several workshops will be coming to an institution near you. The following workshops are planned for 2018/2019:
 
-- [Software, Data, and Library Carpentry workshops]({{ site.url }}{{ base.url }}/workshops/carpentries/) to teach programming and data analysis
+- [Software, Data, and Library Carpentry workshops](({{ site.url }}{{ site.baseurl }}/about/reports/)) to teach programming and data analysis
 - [ITIL workshops]( {{ site.url }}{{ base.url }}/workshops/itil/) for IT staff 
 - [Cyber Security workshops]({{ site.url }}{{ base.url }}/workshops/csirt/) for Computer Security Incidence Response Teams
 - [Network monitoring workshops]({{ site.url }}{{ base.url }}/workshops/network/) to monitor network traffic on the SANREN backbone
