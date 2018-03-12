@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Developing Human Capacity"
   url: 'https://tenet-rccpii.github.io/rccpii-2018/images/RCCPII_ToC2018-03-12.pdf'
-  image: convert.jpg
+  image: home-never-stop-learning.png
   text: 'Learn more about the <em>RCCP II</em> Capacity Development Initiative. We have developed a Theory of Change document to show exactly who the intended audiences are, what we aim to provide, how we will work and what the intended outcomes will be. We look forward to be working with our communities.'
 #
 # Use the call for action to show a button on the frontpage
