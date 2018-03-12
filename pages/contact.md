@@ -5,7 +5,7 @@ meta_title: "Contact and use our contact form"
 teaser: "Want to get in touch with suggestions, questions, and more?"
 permalink: "/contact/"
 header:
-    image_fullwidth: "header_contact.jpg"
+    image_fullwidth: "whitebackground.png"
 ---
 
 ## TENET
