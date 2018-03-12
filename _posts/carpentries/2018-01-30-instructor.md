@@ -14,8 +14,6 @@ tags:
     - Data Carpentry
     - Instructor Training
     - Train-the-Trainer
-image:
-    title: 2018-01-30-blog-instructortraining.jpg
 author: Anelda van der Walt
 ---
 In 2016 and 2017 three Software, Data, and Library Carpentry instructor training events 
