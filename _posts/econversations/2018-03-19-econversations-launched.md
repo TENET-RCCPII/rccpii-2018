@@ -7,6 +7,8 @@ meta_teaser: ""
 breadcrumb: true
 categories:
     - econversations
+header:
+    image_fullwidth: "whitebackground.png"
 tags:
     - eConversation
     - Trends in Research
