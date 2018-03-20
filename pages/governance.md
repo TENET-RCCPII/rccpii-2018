@@ -8,10 +8,8 @@ header:
 ---
 ## Steering committee
 
-- Name 1, organisation
-- Name 2, organisation
-- Name 3, organisation
-- ...
+Please visit this page again for an update
+
 
 ## Project Management
 - USAF RCCP II Project Manager: Mr Michael Acres
