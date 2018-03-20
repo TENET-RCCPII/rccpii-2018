@@ -11,7 +11,7 @@ Watch this space to see what we have planned for the eConversations: General Ser
 
 The first sessions are already indicated on the [calendar](https://calendar.google.com/calendar/embed?src=beg31jqblfp9bb2sd8eba2fpgs%40group.calendar.google.com&ctz=Africa%2FJohannesburg)
 
-- 23 March 2018: Virtual meetings as research and collaboration tool
+- 23 March 2018: Virtual Platforms for Collaboration and Research
 - 20 April 2018: Becoming part of the South African R community: SatRday as Case Study
 - 25 May 2018: Using social media in academia: getting and disseminating information
 - 22 June 2018: What is an Open Researcher and Contributer ID (ORCID) - not only for researchers
