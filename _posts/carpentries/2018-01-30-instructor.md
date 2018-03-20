@@ -9,6 +9,8 @@ meta_teaser: ""
 breadcrumb: true
 categories:
     - carpentries
+header:
+    image_fullwidth: "whitebackground.png"
 tags:
     - Software Carpentry
     - Data Carpentry
