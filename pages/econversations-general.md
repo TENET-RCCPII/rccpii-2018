@@ -11,7 +11,14 @@ Watch this space to see what we have planned for the eConversations: General Ser
 
 The first sessions are already indicated on the [calendar](https://calendar.google.com/calendar/embed?src=beg31jqblfp9bb2sd8eba2fpgs%40group.calendar.google.com&ctz=Africa%2FJohannesburg)
 
-- 23 March 2018: Virtual Platforms for Collaboration and Research
+### Past Sessions
+
+|Date|Topic/Title|Link to registration|Link to slides|
+|----|-----------|--------------------|--------------|
+|23 March 2018|Virtual Platforms for Research and Collaboration|[link](https://www.quicket.co.za/events/27507-rccp-ii-econversation-series-1-virtual-platforms-for-collaboration-and-research/)|[slides](https://figshare.com/articles/RCCPII_eConversations_Virtual_Platforms_for_Research_and_Collaboration/6050171)|
+
+### Upcoming Sessions
+
 - 20 April 2018: Becoming part of the South African R community: SatRday as Case Study
 - 25 May 2018: Using social media in academia: getting and disseminating information
 - 22 June 2018: What is an Open Researcher and Contributer ID (ORCID) - not only for researchers
