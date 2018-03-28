@@ -52,9 +52,6 @@
 - title: "Mentorship"
   url: "/mentorship/"
   side: left
-  dropdown:
-  - title: "Carpentries Task Force"
-    url: "/mentorship/carpentries-tf/"
   
 - title: "Blog"
   url: "/blog/"
