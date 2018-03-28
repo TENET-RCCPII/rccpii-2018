@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: Carpentries Instructor Training
-title:  "RCCPII and Task Force Pioneers New Mentorship Programme To Boost Instructors' Confidence and Competence"
-teaser: "Over the past three years almost 100 researchers and students at South African universities joined received training as Carpentry instructors. Instructor training covers evidence-based best-practices of teaching and provides opportunities to practice and build teaching skills. Due to various reason many of our trained instructors have not yet taught or have not yet completed their qualification. We set out to understand the reasons for this and to implement some solutions."
+subheadline: Mentorship
+title:  "RCCPII and Task Force Pioneer New Mentorship Programme To Boost Instructors' Confidence and Competence"
+teaser: "Over the past three years almost 100 researchers and students at South African universities received training as Carpentry instructors. Instructor training covers evidence-based best-practices of teaching and provides opportunities to practice and build teaching skills. Due to various reason many of our trained instructors have not yet taught or have not yet completed their qualification. We set out to understand the reasons for this and to implement some solutions."
 meta_teaser: ""
 breadcrumb: true
 categories:
