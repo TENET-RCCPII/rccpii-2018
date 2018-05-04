@@ -7,5 +7,8 @@ header:
     image_fullwidth: "whitebackground.png"
 ---
 
-Watch this space to learn more about RCCP II supported activities around elearning and blended learning in 2018/2019.
+RCCPII and ASAUDIT will be joining forces on 18 June 2018 to jointly organise the ASAUDIT Blended Learning SIG meeting. The meeting will take place just prior to the National ASAUDIT Technical Meeting (NATE 2018) at Nelson Mandela University.
 
+The programme for the event is currently under development. If you would like to be informed when registration opens or if you have any suggestions or questions for the organisers, please complete the short form available at [https://goo.gl/forms/f8EmHCO7dn7i6Nfr2](https://goo.gl/forms/f8EmHCO7dn7i6Nfr2).
+
+[![images/asaudit-rccpii-blended-learning-June-2018.png](ASAUDIT Blended Learning SIG Meeting)](documents/BlendedLearningSIGSaveTheDate.pdf)
