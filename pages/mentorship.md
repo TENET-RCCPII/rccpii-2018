@@ -11,16 +11,14 @@ header:
 
 In 2018, the Carpentries Task Force aim to run several online sessions for trained Carpentry instructors, to learn more about the tools and techniques employed by the Carpentries in the classroom.
 
-The first online training opportunity is scheduled over six weeks and will run as follows:
+The first online training opportunity ran in March and April over six weeks and included the following lessons:
 
-- 20 March 2018: Data organization in spreadsheets
-- 27 March 2018: Cleaning data with OpenRefine
-- 3 April 2018: R - Before we start and Introduction to R
-- 10 April 2018: R -  Starting with data
-- 17 April 2018: R -  Aggregating and analyzing data with dplyr
-- 24 April 2018: R -  Data visualization with ggplot2
-
-Applications will open shortly.
+- 20 March 2018: Data organization in spreadsheets (taught by Katrin Tirok)
+- 27 March 2018: Cleaning data with OpenRefine (taught by Kayleigh Lino)
+- 3 April 2018: R - Before we start and Introduction to R (taught by Anelda van der Walt)
+- 10 April 2018: R -  Starting with data (taught by Anelda van der Walt)
+- 17 April 2018: R -  Aggregating and analyzing data with dplyr (taught by Caroline F. Ajilogba)
+- 24 April 2018: R -  Data visualization with ggplot2 (taught by Lactatia Motsuku)
 
 ## Monthly Carpentry Instructors Meetups
 
