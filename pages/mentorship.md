@@ -29,3 +29,7 @@ Please sign up to participate by visiting [our Etherpad]()http://pad.software-ca
 ## Pre-workshop Mentoring Sessions
 
 The Carpentries Task Force will provide support to instructors and helpers who will be teaching/helping at upcoming workshops prior to the events. Task force members will assist with preparation of lessons, general questions about the Carpentries teaching methodologies, code of conduct, and more.
+
+## Carpentry Instructor Retreats
+
+Our volunteer instructors are the heart of the community as they share their valuable time with learners and other instructors. In return we aim to provide opportunities where instructors can recharge and learn new skills too. The instructor retreats are generally ran in conjunction with [instructor training](https://tenet-rccpii.github.io/rccpii-2018/workshops/instructor-training/) events to provide seasoned and new instructors an opportunity to meet and share experiences. Watch this space to see what is in stall for this year's instructor retreat that will take place in Johannesburg in September.
