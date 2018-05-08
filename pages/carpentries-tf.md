@@ -27,4 +27,4 @@ Current task force members include:
   - Katrin Tirok
   - Anelda van der Walt
 
-For more information please visit our webpage.
+For more information please visit [our webpage](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html).
