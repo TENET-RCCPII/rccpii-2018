@@ -16,11 +16,12 @@ The first sessions are already indicated on the [calendar](https://calendar.goog
 |Date|Topic/Title|Link to registration|Link to slides|
 |----|-----------|--------------------|--------------|
 |23 March 2018|Virtual Platforms for Research and Collaboration|[link](https://www.quicket.co.za/events/27507-rccp-ii-econversation-series-1-virtual-platforms-for-collaboration-and-research/)|[slides](https://figshare.com/articles/RCCPII_eConversations_Virtual_Platforms_for_Research_and_Collaboration/6050171)|
+|20 April 2018|Joining the South African R-Community|[link](https://www.quicket.co.za/events/42911-rccp-ii-econversation-series-2-joining-the-south-african-r-community/)|[slides](https://prezi.com/view/XRuMQtRSIVBVStP6aRU9/)|
+|25 May 2018|Social Media for Research and Education - Sourcing and Sharing Information.|[link](https://www.quicket.co.za/events/47316-rccp-ii-econversation-series-3-social-media-for-research-and-education-getting/#/)|slides|
 
 ### Upcoming Sessions
 
-- 20 April 2018: Becoming part of the South African R community: SatRday as Case Study
-- 25 May 2018: Using social media in academia: getting and disseminating information
+- 25 May 2018: [Social Media for Research and Education - Sourcing and Sharing Information](https://www.quicket.co.za/events/47316-rccp-ii-econversation-series-3-social-media-for-research-and-education-getting/#/)
 - 22 June 2018: What is an Open Researcher and Contributer ID (ORCID) - not only for researchers
 - 20 July 2018: Communities of Practice: Learning and teaching new skills outside of the classroom
 
