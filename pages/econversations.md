@@ -17,7 +17,7 @@ for up to 90 minutes and are hosted on a virtual platform such as
 [Vidyo](https://www.tenet.ac.za/services/vidyo). Participants only need internet connection
 and a device for connecting to the virtual meeting.
 
-## What is in stock for eCConversations 2018?
+## What is in stock for eConversations 2018?
 
 This year we plan to offer at least one session per month on a fixed day and time slot to make
 it easier for the community to join. The sessions will focus on:
@@ -30,10 +30,10 @@ to share their knowledge and stimulate discussion. Concepts may include "reprodu
 "blended learning", "open science", "research software engineers"...
 - **Events**: Many new events that are relevant to folks from all disciplines, have seen the light and is accessible to academics in South Africa. We will invite people who are running such events, as well 
 as those who have (or will be) participated in generally applicable events to share their experiences,
-recommendations, and opportunities with our community. Events could include OpenCon, 
-International Data Week, Open Access Week, CarpentryCon, Research Data Science Summer Schools, and more.
+recommenda
 
-A full programme will be published shortly to help you get these conversations into your diary. 
+There will also be sessions dedicated to [IT staff at universities](https://tenet-rccpii.github.io/rccpii-2018/econversations/it/) and sessions addressing [topics that are applicable to most people working or studying at an academic/research institution](https://tenet-rccpii.github.io/rccpii-2018/econversations/general/) in South Africa.
+
 See also our [calendar of events](https://calendar.google.com/calendar/embed?src=beg31jqblfp9bb2sd8eba2fpgs%40group.calendar.google.com&ctz=Africa%2FJohannesburg)
  for more opportunities to connect.
 
