@@ -8,10 +8,17 @@ header:
 ---
 ## Steering committee
 
-Please visit this page again for an update
+- Dr Berene Kramer – USAf
+- Emert Nkhatu – USAf
+- Dr Chris Johl – UFH
+- Leon Staphorst  - SCA, Meraka Institute, CSIR
+- Val Theron – ASAUDIT
+- Breda Swart – DHET
+- Duncan Greaves  - TENET
+- Prof Frikkie van Niekerk  - NWU
 
+## Ex Officio members
 
-## Project Management
-- USAF RCCP II Project Manager: Mr Michael Acres
-- TENET RCCP II Networking Project Manager: Ms Helga van Wyk
-- TENET RCCP II Capacity Development Project Manager: Mr Geoff Hoy & Ms Anelda van der Walt
+- Michael Acres  - RCCP II Project Leader, USAf
+- Helga van Wyk  - RCCP II Project Manager, TENET
+- Geoff Hoy  - Project Management  Porfolio, TENET
