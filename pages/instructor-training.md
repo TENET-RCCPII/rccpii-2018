@@ -32,7 +32,7 @@ Over the past three years more than 60 South African researchers, students, as w
 staff have participated in local instructor training events.
 
 The first instructor training event for 2018, funded through <em>RCCP II</em>, ran from 21 - 23 February
-in the Western Cape. More information is available at [the event's website](https://tenet-rccpii.github.io/2018-02-21-South-Africa-ttt/).RCCP II will fund another in-person workshop in September/October 2018 and again in March 2019. There are also opportunities to run in-house instructor training events if your institution can fund it. Alternatively South Africans can get access to online instructor training.
+in the Western Cape. More information is available at [the event's website](https://tenet-rccpii.github.io/2018-02-21-South-Africa-ttt/).RCCP II funded another in-person instructor training workshop on [6 - 7 September 2018](https://tenet-rccpii.github.io/2018-09-06-ttt-CarpentryConnect-JHB/). This workshop ran as part of [CarpentryConnect Johannesburg 2018](http://carpentryconnectza.org/). There are also opportunities to run in-house instructor training events if your institution can fund it. Alternatively one can get access to online instructor training by completing the online application form mentioned below.
 
 ## How can you get trained as Carpentry instructor?
 
