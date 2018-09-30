@@ -79,5 +79,6 @@ about their experiences as instructors in other African countries:
 
 ## How can you get involved?
 
-We are currently working with the Carpentries to review the channels for getting involved and will provide
-more information on this website shortly.
+Please email the African Carpentries Workshop Administrator at amin-afr@carpentries.org to request a workshop or get more information. 
+
+You can also complete the online workshop request forms respectively for [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](https://amy.software-carpentry.org/forms/dc/request/) workshops.
