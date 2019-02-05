@@ -22,4 +22,8 @@ The first sessions are already indicated on the [calendar](https://calendar.goog
 
 ### Upcoming Sessions
 
+|Date|Topic/Title|Link to registration|
+|----|-----------|--------------------|
+|12 February 2019|Using blended learning tools and videos in university teaching|[link](https://www.quicket.co.za/events/66761--rccp-ii-econversation-series-5-using-blended-learning-tools-and-videos-in-univ?preview=t#/)|
+
 If you would like to propose a topic, please complete our [contact form](https://docs.google.com/forms/d/e/1FAIpQLScYQU2FSqHBsSOouSkZgS2Qmin2BGF7VIpXg1aSye55XF2VqQ/viewform).
