@@ -25,5 +25,10 @@ The first sessions are already indicated on the [calendar](https://calendar.goog
 |Date|Topic/Title|Link to registration|
 |----|-----------|--------------------|
 |12 February 2019|Using blended learning tools and videos in university teaching|[link](https://www.quicket.co.za/events/66761--rccp-ii-econversation-series-5-using-blended-learning-tools-and-videos-in-univ?preview=t#/)|
+|22 February 2019|Vidyo for Video Conferencing/Online meetings at Universities|link tbc soon|
+|1 March 2019|Bridging the gap: Linking tools and services to the end-users|[link](http://qkt.io/RCCPII-1March2019)|
+|12 March 2019|TBC (related to open education resources)|link tbc soon|
+|29 March 2019|TBC (network troubleshooting and management)|link tbc soon|
+
 
 If you would like to propose a topic, please complete our [contact form](https://docs.google.com/forms/d/e/1FAIpQLScYQU2FSqHBsSOouSkZgS2Qmin2BGF7VIpXg1aSye55XF2VqQ/viewform).
