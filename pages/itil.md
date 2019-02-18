@@ -7,4 +7,4 @@ header:
     image_fullwidth: "whitebackground.png"
 ---
 
-In 2018/2019 RCCP II will fund one or more ITIL workshops. Please watch this space for more information.
+The RCCP II ITIL workshop has been cancelled. Please see our [workshops page](https://tenet-rccpii.github.io/rccpii-2018/workshops/) for information about other activities that may be of interest. 
