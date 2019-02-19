@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Blended Learning eConversation
-title:  "Using blended learning tools and videos in university teaching"
+title:  "Using Blended Learning Tools and Videos in University Teaching"
 teaser: "In February we will hear from  Elne van Niekerk (NWU) and Justin Pringle (UKZN) about blended learning tools and technologies they use or support in the tertiary teaching landscape."
 meta_teaser: ""
 breadcrumb: true
