@@ -13,6 +13,6 @@ RCCPII and ASAUDIT joined forces on 18 June 2018 to organise the ASAUDIT Blended
 
 Another SIG meeting was held in Johannesburg on 19 & 20 November.
 
-[[![ASAUDIT Blended Learning SIG Meeting]({{ site.url }}{{ site.baseurl }}/images/asaudit-rccpii-blended-learning-nov-2018.png)](https://tenet-rccpii.github.io/BlendedLearningSIG-JHB-2018/)
+[![ASAUDIT Blended Learning SIG Meeting]({{ site.url }}{{ site.baseurl }}/images/asaudit-rccpii-blended-learning-nov-2018.png)](https://tenet-rccpii.github.io/BlendedLearningSIG-JHB-2018/)
 
 For more information, please contact the ASAUDIT Blended Learning SIG convenor, [Ms Adelle Lotter](mailto:adelle.lotter@nwu.ac.za) from North-West University.
