@@ -20,6 +20,8 @@ The first online training opportunity ran in March and April over six weeks and 
 - 17 April 2018: R -  Aggregating and analyzing data with dplyr (taught by Caroline F. Ajilogba)
 - 24 April 2018: R -  Data visualization with ggplot2 (taught by Lactatia Motsuku)
 
+Subsequent online training opportunities were cancelled due to lack of interest from instructors. The time committment over several weeks was cited as a problem given the academic calendar.
+
 ## Monthly Carpentry Instructors Meetups
 
 Since 2017 a monthly meeting has been running where Carpentry instructors from Africa come together to discuss recent or upcoming workshops, lessons learned, opportunities, challenges, and more. These sessions will continue to run under the umbrella of the RCCP II Capacity Development Initiative in 2018/2019.

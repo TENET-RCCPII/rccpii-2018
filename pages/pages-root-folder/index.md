@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Communicate & Collaborate"
   url: 'https://tenet-rccpii.github.io/rccpii-2018/econversations'
-  text: 'In 2018 <em>RCCP II</em> will provide many opportunities for academic and support staff to get together and learn from each other and from various local and international experts. A large focus will be on online communication and collaboration. See you online!'
+  text: 'Between January 2018 and March 2019 <em>RCCP II</em> will provide many opportunities for academic and support staff to get together and learn from each other and from various local and international experts. A large focus will be on online communication and collaboration. See you online!'
   image: collaborate.jpg
 widget3:
   title: "Developing Human Capacity"

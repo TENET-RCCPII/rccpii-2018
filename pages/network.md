@@ -1,10 +1,12 @@
 ---
 layout: page
 title: "Network Monitoring Workshops"
-teaser: "perfSONAR is a toolkit deployed on stand-alone servers for network performance measurement and monitoring. It encapsulates best practice tools for measuring available throughput, loss and latency (amongst other performance parameters). perfSONAR is provided by SANREN. IT Network staff at various universities will learn about the tool and alternative options for network monitoring."
+teaser: "These workshops were cancelled. For information about other workshops that may be of interest, please visit our [workshops page](https://tenet-rccpii.github.io/rccpii-2018/workshops/)."
 permalink: "/workshops/network/"
 header:
     image_fullwidth: "whitebackground.png"
 ---
 
-Please watch this space for upcoming events related to network monitoring or get in touch with the team if you are interested to learn more.
+RCCPII and SAFIRE are partnering to run an [Identity Management and Federation workshop](https://tenet-rccpii.github.io/identity-2019/) instead of the originally planned network monitoring workshops based on massive demand from tertiary and research institutions in South Africa.
+
+More information is available on the [workshop website](https://tenet-rccpii.github.io/identity-2019/).

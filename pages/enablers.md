@@ -42,11 +42,12 @@ it may also lead to better relationships between support staff (enablers) and ac
 role that support staff play to enable research, academics may find better ways to collaborate with support
 staff to enhance their research.
 
-## What can enablers and academics expect this year?
+## What did RCCPII do to enable Enablers?
 
-We will be running various sessions in 2018 to assist with building 
+We were hoping to run various dedicated sessions in 2018 to assist with building 
 bridges between academics and support staff as well as empowering enablers by sharing insights into the changing landscapes or research and teaching and learning. We look forward to hearing your suggestions and feedback.
 
-Our materials will be developed under open licenses through collaborative processes. 
+We realised quickly that our other workshops and online sessions were always a mix of academics, students and support staff which already helped a lot with our aim of helping to build bridges.
 
-The Github repository for the Enablers' Workshop Material is available at [https://github.com/TENET-RCCPII/EnablingAcademia](https://github.com/TENET-RCCPII/EnablingAcademia). 
+Unfortunately it was not possible to develop dedicated curricula to help build capacity amongst enablers, but various conversations were started and will continue beyond the scope of RCCPII, including, for example, conversations within the [Blended Learning SIG](https://tenet-rccpii.github.io/rccpii-2018/workshops/elearning/) and the Carpentries [instructor](https://tenet-rccpii.github.io/rccpii-2018/workshops/carpentries/) and [learner](https://tenet-rccpii.github.io/rccpii-2018/workshops/instructor-training/) communities.
+
