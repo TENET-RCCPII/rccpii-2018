@@ -24,14 +24,14 @@ Since January 2018, RCCPII introduced more than 500 staff and students affiliate
 
 All materials published by the Carpentries are made available under open licenses and re-use and contextualisation is strongly encouraged.
 
-The [instructor training programme](https://carpentries.github.io/instructor-training/) introduces participants to concepts around educational psychology and pedagogy as well as practical tips for hosting, organising, and teaching a successful workshop. South Africa currently boasts 34 qualified instructors which - they highest number of qualified instructors in any developing country. Instructors and trainees have an opportunity to become part of a global community of practice around data analysis and computing. Mentorship and professional development opportunities are also available through the Carpentries.
+The [instructor training programme](https://carpentries.github.io/instructor-training/) introduces participants to concepts around educational psychology and pedagogy as well as practical tips for hosting, organising, and teaching a successful workshop. South Africa currently boasts 34 qualified instructors which is the highest number of qualified instructors in any developing country. Instructors and trainees have an opportunity to become part of a global community of practice around data analysis and computing. Mentorship and professional development opportunities are also available through the Carpentries.
 
 The workshop in March is specifically aiming to build capacity in the Eastern part of South Africa and will be open for participants from universities in KwaZulu Natal and the Eastern Cape.
 
-More information and the application form link is available on [the course website](https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/). Please add as much information to the application form to help us 
+More information and the application form link is available on [the course website](https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/). Please add as much information to the application form to help us
 understand why you would be a good candidate for the training.
 
-**The workshop is funded by the DHET through RCCP II and UKZN through the UKZN Big Data & Informatics flagship program.**
+**The workshop is funded by the DHET through RCCP II and by UKZN through the University Capacity Development Program at UKZN and the Big Data & Informatics research flagship.**
 
 
 ## Other Post Formats
