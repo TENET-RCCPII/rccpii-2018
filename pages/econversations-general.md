@@ -20,15 +20,15 @@ The first sessions are already indicated on the [calendar](https://calendar.goog
 |25 May 2018|Social Media for Research and Education - Sourcing and Sharing Information.|[link](https://www.quicket.co.za/events/47316-rccp-ii-econversation-series-3-social-media-for-research-and-education-getting/#/)|[slides](https://twitter.com/stevedudley_/status/999962889871077376)|[notes](https://etherpad.wikimedia.org/p/r.a4049de9b6025c40eca1a384d5a55e3a)|
 |27 July 2018|Altmetrics: Tracking the Online Attention and Broadening the Reach of Your Research.|[link](https://www.quicket.co.za/events/52327-rccp-ii-econversation-series-4-altmetrics-tracking-the-online-attention-and-bro/)|[slides](https://figshare.com/articles/Altmetrics_Tracking_the_Online_Attention_and_Broadening_the_Reach_of_Your_Research/6871388)|[notes](https://etherpad.wikimedia.org/p/r.7880d91cb1b63ba76acdda0b616f77a9)|
 |12 February 2019|Using blended learning tools and videos in university teaching|[link](https://www.quicket.co.za/events/66761--rccp-ii-econversation-series-5-using-blended-learning-tools-and-videos-in-univ?preview=t#/)|[slides](https://figshare.com/articles/RCCPII_eConversations_Using_blended_learning_tools_and_videos_in_university_teaching/7764590)|[notes](https://etherpad.wikimedia.org/p/r.c54cef0bfc73cd9588182d6c2223c4d3)|
+|1 March 2019|Bridging the gap: Linking tools and services to the end-users|[link](http://qkt.io/RCCPII-1March2019)||[notes](https://etherpad.wikimedia.org/p/r.90d7f932cac6e2eb931afdb23882e1e3)|
+|12 March 2019|Open Educational Resources for higher education in South Africa |[link](http://qkt.io/RCCPII-12Mar )|[slides]({{ url.baseurl }}/documents/OpennessInHE_OER.pdf)|[notes](https://etherpad.wikimedia.org/p/r.251a09747600e74994d8cece49bc3935)|
 
 ### Upcoming Sessions
 
 |Date|Topic/Title|Link to registration|
 |----|-----------|--------------------|
-|1 March 2019|Bridging the gap: Linking tools and services to the end-users|[link](http://qkt.io/RCCPII-1March2019)|
-|12 March 2019|Open Educational Resources for higher education in South Africa |[link](http://qkt.io/RCCPII-12Mar )|
 |tbc|Vidyo for Video Conferencing/Online meetings at Universities|link tbc soon|
-|29 March 2019|TBC (network troubleshooting and management)|link tbc soon|
+|tbc|TBC (network troubleshooting and management)|link tbc soon|
 
 
 If you would like to propose a topic, please complete our [contact form](https://docs.google.com/forms/d/e/1FAIpQLScYQU2FSqHBsSOouSkZgS2Qmin2BGF7VIpXg1aSye55XF2VqQ/viewform).
