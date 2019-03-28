@@ -21,7 +21,7 @@ The first sessions are already indicated on the [calendar](https://calendar.goog
 |27 July 2018|Altmetrics: Tracking the Online Attention and Broadening the Reach of Your Research.|[link](https://www.quicket.co.za/events/52327-rccp-ii-econversation-series-4-altmetrics-tracking-the-online-attention-and-bro/)|[slides](https://figshare.com/articles/Altmetrics_Tracking_the_Online_Attention_and_Broadening_the_Reach_of_Your_Research/6871388)|[notes](https://etherpad.wikimedia.org/p/r.7880d91cb1b63ba76acdda0b616f77a9)|
 |12 February 2019|Using blended learning tools and videos in university teaching|[link](https://www.quicket.co.za/events/66761--rccp-ii-econversation-series-5-using-blended-learning-tools-and-videos-in-univ?preview=t#/)|[slides](https://figshare.com/articles/RCCPII_eConversations_Using_blended_learning_tools_and_videos_in_university_teaching/7764590)|[notes](https://etherpad.wikimedia.org/p/r.c54cef0bfc73cd9588182d6c2223c4d3)|
 |1 March 2019|Bridging the gap: Linking tools and services to the end-users|[link](http://qkt.io/RCCPII-1March2019)||[notes](https://etherpad.wikimedia.org/p/r.90d7f932cac6e2eb931afdb23882e1e3)|
-|12 March 2019|Open Educational Resources for higher education in South Africa |[link](http://qkt.io/RCCPII-12Mar )|[slides]({{ url.baseurl }}/documents/OpennessInHE_OER.pdf)|[notes](https://etherpad.wikimedia.org/p/r.251a09747600e74994d8cece49bc3935)|
+|12 March 2019|Open Educational Resources for higher education in South Africa |[link](http://qkt.io/RCCPII-12Mar )|[slides](https://github.com/TENET-RCCPII/rccpii-2018/blob/gh-pages/documents/OpennessInHE_OER.pdf?raw=true)|[notes](https://etherpad.wikimedia.org/p/r.251a09747600e74994d8cece49bc3935)|
 
 ### Upcoming Sessions
 
