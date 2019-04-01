@@ -11,6 +11,6 @@ RCCPII and SAFIRE partnered to run an [Identity Management and Federation worksh
 
 More information is available on the [workshop website](https://tenet-rccpii.github.io/identity-2019/).
 
-![Identity Management Workshop Participants and Instructors]({{ site.url }}{{ site.baseurl }}/images/inmf-2019.jpg)
+![Identity Management Workshop Participants and Instructors]({{ site.url }}{{ site.baseurl }}/images/imf-2019.jpg)
 
 A blog post about the workshop appeared on [SAFIRE's website](https://safire.ac.za/safire/news/20190308-imf-workshop/).
