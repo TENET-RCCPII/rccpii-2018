@@ -7,4 +7,4 @@ header:
     image_fullwidth: "whitebackground.png"
 ---
 
-Please watch this space for upcoming CSIRT events hosted by RCCP II.
+ASAUDIT hosted a CSIRT activity funded through RCCPII. Please contact them or visit their website for more information.
