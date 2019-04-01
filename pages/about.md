@@ -8,8 +8,6 @@ header:
    
 ---
 
-## Background
-
 The Rural Campuses Connection Project (RCCP) was undertaken to provide 
 high-bandwidth connections for rural university campuses to the South 
 African National Research Network (SANReN). The then HESA received a 
