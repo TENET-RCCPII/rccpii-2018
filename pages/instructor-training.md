@@ -36,6 +36,14 @@ additional [online exercises](https://carpentries.github.io/instructor-training/
 several of our trained instructors have not yet qualified. In 2018 we ran additional online
 mentorship sessions and continued to seek funding to increase mobility of our instructors to gain valuable 
 experience in teaching. 
+
+### The following instructor training activities were run under RCCPII
+
+|Date|Venue|Collaborators|Workshop Website|
+-------------------------------------------
+|2018-02-21|Kleinmond Public Library|Not applicable|https://tenet-rccpii.github.io/2018-02-21-South-Africa-ttt/|
+|2018-09-06|Birchwood Hotel & Conference Facilities|SADiLaR|https://tenet-rccpii.github.io/2018-09-06-ttt-CarpentryConnect-JHB/|
+|2019-03-18|University of KwaZulu-Natal|UKZN Big Data & Informatics Flag Ship Project|https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/|
  
 
 ## How can you get trained as Carpentry instructor?
