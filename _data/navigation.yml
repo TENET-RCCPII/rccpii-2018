@@ -42,6 +42,8 @@
     url: "/workshops/csirt/"
   - title: "Identity Management & Federation"
     url: "/workshops/identity/"
+  - title: "Network Design"
+    url: "/workshops/network/"
   - title: "Research & T&L Enablers"
     url: "/workshops/enablers/"
   - title: "eLearning"
