@@ -24,7 +24,7 @@ The RCCPII Capacity Development Initiative hosted 47 activities in 15 months. Th
 |Activity Type|Number of Activities|Number of SA Public Universities Reached|Number of Participants|
 |-------------|--------------------|----------------------------------------|----------------------|
 |[Blended Learning SIG](https://tenet-rccpii.github.io/rccpii-2018/workshops/elearning/)|2|16|63|
-|[Digital & Computational (Carpentries) Workshops](https://tenet-rccpii.github.io/rccpii-2018/workshops/carpentries/)|14|25|
+|[Digital & Computational (Carpentries) Workshops](https://tenet-rccpii.github.io/rccpii-2018/workshops/carpentries/)|14|25|558|
 |Community Building|4|9|96|
 |[eConversations](https://tenet-rccpii.github.io/rccpii-2018/econversations/general/)|7|14|133|
 |[Identity Management & Federation](https://tenet-rccpii.github.io/rccpii-2018/workshops/identity/)|1||31|
