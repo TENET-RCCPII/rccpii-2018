@@ -86,7 +86,7 @@ You can also complete the [online workshop request form](https://amy.carpentries
 ## Workshops that were run under RCCPII
 
 |Start Date|End Date|Venue|Type|Workshop Website|
-----------------------------------
+|----------|--------|-----|----|----------------|
 |2018-03-15|2018-03-16|University of Cape Town|[Data Carpentry](https://datacarpentry.org)|https://katrintirok.github.io/2018-03-15-satRday/|
 |2018-04-06|2018-04-06|University of the Western Cape|[Data Carpentry](https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-04-06-GalaxyConf-R/|
 |2018-05-09|2018-05-11|University of the Free State|[Library Carpentry](https://librarycarpentry.org/)|https://ufshpc.github.io/2018-05-09-ufs/|
