@@ -10,8 +10,8 @@ header:
 
 From 15 - 19 January 2018, the Network Startup Resource Centre](https://nsrc.org/) ran a Campus Network Design and Operations Workshop in Cape Town, South Africa.
 
-[Workshop photos 1](https://photos.nsrc.org/picture.php?/18164-20180115_3687_dsc_8260/category/370-tenet_workshop_cape_town_south_africa)
-[Workshop photos 2](https://photos.nsrc.org/picture.php?/18163-20180115_3686_dsc_8259/category/370-tenet_workshop_cape_town_south_africa)
+![Workshop photos 1](https://photos.nsrc.org/picture.php?/18164-20180115_3687_dsc_8260/category/370-tenet_workshop_cape_town_south_africa)
+![Workshop photos 2](https://photos.nsrc.org/picture.php?/18163-20180115_3686_dsc_8259/category/370-tenet_workshop_cape_town_south_africa)
 
 The goals of the event were to:
 
