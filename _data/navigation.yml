@@ -25,10 +25,8 @@
     url: "/econversations/general/"
   - title: "FAQ: Video conferencing support"
     url: "/econversations/video-support/"
-  - title: "FAQ: Video conferencing etiquette"
-    url: "/econversations/video-etiquette"
-  - title: "FAQ: Video conferencing troubleshooting"
-    url: "/econversations/video-trouble/"
+  - title: "FAQ: Video Conferencing / Online Meeting Best Practices"
+    url: "/econversations/video-best-practices"
 
 - title: "Workshops"
   url: "/workshops/"
@@ -42,7 +40,9 @@
     url: "/workshops/itil/"
   - title: "CSIRT"
     url: "/workshops/csirt/"
-  - title: "Network Monitoring"
+  - title: "Identity Management & Federation"
+    url: "/workshops/identity/"
+  - title: "Network Design"
     url: "/workshops/network/"
   - title: "Research & T&L Enablers"
     url: "/workshops/enablers/"
@@ -52,9 +52,6 @@
 - title: "Mentorship"
   url: "/mentorship/"
   side: left
-  dropdown:
-  - title: "Task Force"
-    url: "/mentorship/carpentries-tf/"
   
 - title: "Blog"
   url: "/blog/"
@@ -62,10 +59,19 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+    
+- title: "Impact & Reach"
+  url: "/impact/"
+  side: left
+  dropdown: 
+  - title: "Data & Code"
+    url: "/impact/data/"
+  - title: "Visualise Impact & Reach"
+    url: "/impact/visualise/"   
 
 - title: "Code of Conduct"
   url: "/coc/"
-  side: left
+  side: right
 
 - title: "Search"
   url: "/search/"

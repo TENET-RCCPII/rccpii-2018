@@ -7,6 +7,6 @@ header:
     image_fullwidth: "whitebackground.png"
 ---
 
-The IT eConversations has been cancelled. Please see our [General eConversations](https://tenet-rccpii.github.io/rccpii-2018/econversations/general/) for links to resources that might be of interest. 
+The IT eConversations were incorporated in the general eConversations series. Please see the [General eConversations](https://tenet-rccpii.github.io/rccpii-2018/econversations/general/) for links to resources that might be of interest. 
 
 

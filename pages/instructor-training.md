@@ -28,13 +28,24 @@ header:
 
 ## What is happening in South Africa?
 
-Over the past three years more than 60 South African researchers, students, as well as IT and library 
+Between 2015 - 2019 almost 150 South African researchers, students, as well as IT and library 
 staff have participated in local instructor training events.
 
-The first instructor training event for 2018, funded through <em>RCCP II</em>, ran from 21 - 23 February
-in the Western Cape. More information is available at [the event's website](https://tenet-rccpii.github.io/2018-02-21-South-Africa-ttt/).RCCP II funded another in-person instructor training workshop on [6 - 7 September 2018](https://tenet-rccpii.github.io/2018-09-06-ttt-CarpentryConnect-JHB/). This workshop ran as part of [CarpentryConnect Johannesburg 2018](http://carpentryconnectza.org/). There are also opportunities to run in-house instructor training events if your institution can fund it. Alternatively one can get access to online instructor training by completing the online application form mentioned below.
+Due to the requirements for qualification (participate in a 2-day workshop and complete three 
+additional [online exercises](https://carpentries.github.io/instructor-training/checkout/) afterwards), 
+several of our trained instructors have not yet qualified. In 2018 we ran additional online
+mentorship sessions and continued to seek funding to increase mobility of our instructors to gain valuable 
+experience in teaching. 
+
+### The following instructor training activities were run under RCCPII
+
+|Date|Venue|Collaborators|Workshop Website|
+|----|-----|-------------|----------------|
+|2018-02-21|Kleinmond Public Library|Not applicable|https://tenet-rccpii.github.io/2018-02-21-South-Africa-ttt/|
+|2018-09-06|Birchwood Hotel & Conference Facilities|SADiLaR|https://tenet-rccpii.github.io/2018-09-06-ttt-CarpentryConnect-JHB/|
+|2019-03-18|University of KwaZulu-Natal|UKZN Big Data & Informatics Flag Ship Project|https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/|
+ 
 
 ## How can you get trained as Carpentry instructor?
 
-Please complete the [online Carpentry instructor training application form](https://amy.software-carpentry.org/forms/request_training/)
- and contact us to talk about opportunities to train as instructor. 
+Please complete the [online Carpentry instructor training application form](https://amy.software-carpentry.org/forms/request_training/) to request training. Alternatively contact the [Regional African Coordinator](mailto:admin-afr@carpentries.org).
