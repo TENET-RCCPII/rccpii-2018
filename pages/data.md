@@ -16,7 +16,7 @@ Further information about data collection and various data elements are availabl
 
 ## Code
 
-### Visualisation - Shiney App
+### Visualisation - Shiny App
 
 The code for the R Shiny app that was developed for this project to assist with data visualisation and inquiry is published under an open license and is available for re-use.
 
