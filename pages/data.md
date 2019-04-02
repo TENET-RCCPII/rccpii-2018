@@ -1,5 +1,5 @@
 ---
-layout: full-width
+layout: page
 title: "Data & Code"
 teaser: "Data and code generated through the RCCPII capacity development initiative were de-identified and made available for re-use under open licenses."
 permalink: "/impact/data/"
