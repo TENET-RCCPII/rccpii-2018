@@ -8,6 +8,8 @@ header:
 ---
 Note: The R code for this Shiny App is published under an open source license and available for re-use. Please visit the [source repository on Github](https://github.com/katrintirok/rccpii-shinyapp).
 
+Please be patient while the App is loading.
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.16/iframeResizer.min.js"></script>
 <style>
   iframe {
