@@ -2,7 +2,7 @@
 layout: page
 title: "Impact & Reach: Executive Summary"
 teaser: "The RCCPII Capacity Development Initiative ran from January 2018 - March 2019."
-permalink: "/impact/summary/"
+permalink: "/impact"
 header:
   image_fullwidth: "whitebackground.png"
    
@@ -48,3 +48,46 @@ The plot below (downloaded from the RCCPII Shiny App) shows the diversity in par
 The RCCPII capacity development initiative team set out from the start, with the vision of making the activities accessible to the broadest possible contingent of South African students (mostly targeting postgraduate students), academics, and support staff. The plot below shows the diversity that was achieved in terms of race and gender.
 
 ![Gender and racial diversity of participants]({{ site.url }}{{ site.baseurl }}/images/plot_beneficiaries_gender.png)
+
+## How does the Carpentries content relate to the real world?
+
+We would like to specifically highlight contents and outcomes of Carpentries workshops since it is still not a well-known capacity development 'tool' in various regions in South Africa.
+
+During the Carpentries workshops the following topics were covered:
+
+- data collection
+- data formatting
+- data and file formats
+- data augmentation/wrangling/manipulation
+- data cleaning
+- data analysis
+- data visualisation
+- regular expressions
+- reproducible research
+- open licenses for data, publications, code
+- version control
+- automation of repetitive tasks
+- much more
+
+The tools that were covered included:
+
+- R
+- Python
+- SQL
+- Github (and git)
+- OpenRefine
+- Spreadsheets (participants could use paid for or free spreadsheet tools)
+- Linux shell 
+- Etherpad
+
+It is important to note that all these tools are available for free (no license cost) to anyone in the world. This means that all participants could take what they've learned back to their work or home and continue to learn/do with no additional barriers of license costs. All the tools can also be implemented on any operating system on most laptops/desktops.
+
+In RCCPII capacity development initiative we used the tools we teach:
+
+- Github & git for website development - see our website [here](https://tenet-rccpii.github.io/rccpii-2018)
+- R for data analysis and visualisation - see the Shiny app [here](https://tenet-rccpii.github.io/rccpii-2018/impact/visualise/)
+- Python for data exploration - code not published as it was very preliminary
+- Openrefine for data cleaning - scripts could not be shared as it contains information that will make participants identifiable.
+- Linux for website development - when we were working with git (providing commandline access to the website files)
+- Spreadsheets for data capturing - most data was captured via Google Forms and saved in Google Sheets from where it was cleaned up and analysed
+- Etherpad for taking notes and facilitating interaction between presenters and participants during activities - expamples of etherpads used during the initiative is available on the [eConversations page](https://tenet-rccpii.github.io/rccpii-2018/econversations/general/)
