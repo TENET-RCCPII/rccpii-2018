@@ -14,7 +14,7 @@ Note: The R code for this Shiny App is published under an open source license an
     min-width: 100%;
   }
 </style>
-<iframe src="https://rccpii-data.shinyapps.io/capacity-development/" scrolling="no" frameborder="no"></iframe>
+<iframe id="myIframe" src="https://rccpii-data.shinyapps.io/capacity-development/" scrolling="no" frameborder="no"></iframe>
 <script>
   iFrameResize({
     heightCalculationMethod: 'taggedElement'
