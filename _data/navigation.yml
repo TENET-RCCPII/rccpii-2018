@@ -64,8 +64,6 @@
   url: "/impact/"
   side: left
   dropdown: 
-  - title: "Executive Summary"
-    url: "/impact/summary/"
   - title: "Data & Code"
     url: "/impact/data/"
   - title: "Visualise Impact & Reach"
