@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Impact & Reach: Executive Summary"
-teaser: "The RCCPII Capacity Development Initiative ran from January 2018 - March 2019."
+teaser: "The RCCPII Capacity Development Initiative reached 775 individuals from 25 out of 26 publicly funded universities as well as several research institutions and councils."
 permalink: "/impact/"
 header:
   image_fullwidth: "whitebackground.png"
