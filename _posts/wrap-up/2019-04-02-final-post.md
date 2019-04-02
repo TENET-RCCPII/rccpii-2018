@@ -2,7 +2,7 @@
 layout: page
 subheadline: RCCPII Wraps Up
 title:  "Closing Out the RCCPII Capacity Development Initiative"
-teaser: "In 15 months we reached 1,180 people from 74 organisations (including 25 out of 26 publicly funded universities) and 17 countries. ."
+teaser: "In 15 months we reached 1,180 people from 74 organisations (including 25 out of 26 publicly funded universities) and 17 countries."
 meta_teaser: ""
 breadcrumb: true
 categories:
@@ -21,7 +21,7 @@ author: Anelda van der Walt
 The Rural Campuses Connection Project II Capacity Development Initiative ran from January 2018 until March 2019.
 The project members wanted to ensure the largest possible sustainable impact despite the short time frame that was available to achieve this in and therefore tapped into the local and international community for assistance.
 
-<figure class="image"><img src="{{ site.url }}{{ site.baseurl }}/images/carpentryconnectjhb.JPG" alt="Participants and instructors of CarpentryConnect JHB 2018"><figcaption>"Participants of the CarpentryConnect JHB 2018 event.</figcaption></figure>
+<figure class="image"><img src="{{ site.url }}{{ site.baseurl }}/images/carpentryconnectjhb.JPG" alt="Participants and instructors of CarpentryConnect JHB 2018"><figcaption>Participants of the CarpentryConnect JHB 2018 event.</figcaption></figure>
 
 During the 15 months 79 instructors, presenters, and helpers joined us from 36 organisations accross the globe to empart their expertise either in person or via video conferencing. Our instructors and presenters came from 14 countries including South Africa, the United States of America, the Netherlands, the United Kingdom, Italy, Germany, Mexico, Canada, Estonia, Ethiopia, Gambia, Germany, Namibia, Uganda, and Zambia.
 
