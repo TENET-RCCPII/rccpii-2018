@@ -49,7 +49,7 @@ The RCCPII capacity development initiative team set out from the start, with the
 
 ![Gender and racial diversity of participants]({{ site.url }}{{ site.baseurl }}/images/plot_beneficiaries_gender.png)
 
-## How does the Carpentries content relate to the real world?
+## Relevance of content: The Carpentries workshops as case study
 
 We would like to specifically highlight contents and outcomes of Carpentries workshops since it is still not a well-known capacity development 'tool' in various regions in South Africa.
 
