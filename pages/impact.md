@@ -2,7 +2,7 @@
 layout: page
 title: "Impact & Reach: Executive Summary"
 teaser: "The RCCPII Capacity Development Initiative ran from January 2018 - March 2019."
-permalink: "/impact"
+permalink: "/impact/"
 header:
   image_fullwidth: "whitebackground.png"
    
