@@ -1,5 +1,5 @@
 ---
-layout: full-width
+layout: shiny
 title: "RCCPII Capacity Development Initiative Data Visualisation"
 teaser: "An R Shiny App was developed to assist with data visualisation."
 permalink: "/impact/visualise/"
