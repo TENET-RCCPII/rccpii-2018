@@ -6,15 +6,15 @@ permalink: "/workshops/elearning/"
 header: no
 ---
 
-## 18 June 2019
+## 18 June 2018
 
 RCCPII and ASAUDIT joined forces on 18 June 2018 to organise the ASAUDIT Blended Learning Special Interest Group (SIG) meeting. The meeting took place just prior to the National ASAUDIT Technical Meeting (NATE 2018) at Nelson Mandela University and was a follow-up meeting of the SIG meeting that were held at Stellenbosch in November 2017.
 
 [![ASAUDIT Blended Learning SIG Meeting]({{ site.url }}{{ site.baseurl }}/images/asaudit-rccpii-blended-learning-June-2018.png)]({{ site.url }}{{ site.baseurl }}/documents/BlendedLearningSIGSaveTheDate.pdf)
 
-## 19 & 20 November 2019
+## 19 & 20 November 2018
 
-A [second Blended Learning SIG meeting](https://tenet-rccpii.github.io/BlendedLearningSIG-JHB-2018/) was co-organised by RCCPII and held in Johannesburg on 19 & 20 November.
+A [second Blended Learning SIG meeting](https://tenet-rccpii.github.io/BlendedLearningSIG-JHB-2018/) was co-organised by RCCPII and held in Johannesburg on 19 & 20 November 2018.
 
 [![ASAUDIT Blended Learning SIG Meeting]({{ site.url }}{{ site.baseurl }}/images/asaudit-rccpii-blended-learning-nov-2018.png)](https://tenet-rccpii.github.io/BlendedLearningSIG-JHB-2018/)
 

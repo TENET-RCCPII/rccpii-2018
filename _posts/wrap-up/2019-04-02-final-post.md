@@ -19,11 +19,11 @@ author: Anelda van der Walt
 ---
 
 The Rural Campuses Connection Project II Capacity Development Initiative ran from January 2018 until March 2019.
-The project members wanted to ensure the largest possible sustainable impact despite the short time frame that was available to achieve this in and therefore tapped into the local and international community for assistance.
+The project members wanted to ensure the largest possible sustainable impact within the short time frame that was available and therefore tapped into the local and international community for assistance.
 
 <figure class="image"><img src="{{ site.url }}{{ site.baseurl }}/images/carpentryconnectjhb.JPG" alt="Participants and instructors of CarpentryConnect JHB 2018"><figcaption>Participants of the CarpentryConnect JHB 2018 event.</figcaption></figure>
 
-During the 15 months 79 instructors, presenters, and helpers joined us from 36 organisations accross the globe to empart their expertise either in person or via video conferencing. Our instructors and presenters came from 14 countries including South Africa, the United States of America, the Netherlands, the United Kingdom, Italy, Germany, Mexico, Canada, Estonia, Ethiopia, Gambia, Germany, Namibia, Uganda, and Zambia.
+During the 15 months, 79 instructors, presenters, and helpers joined us from 36 organisations across the globe to impart their expertise either in person or via video conferencing. Our instructors and presenters came from 14 countries including South Africa, the United States of America, the Netherlands, the United Kingdom, Italy, Germany, Mexico, Canada, Estonia, Ethiopia, Gambia, Namibia, Uganda, and Zambia.
 
 We specifically want to thank the following Carpentries volunteers who joined us in person without compensation for their time. You have made this initiative possible. We hope you enjoy reading about the impact you have had on the South African Higher Education and Research environment!
 
@@ -43,9 +43,9 @@ We specifically want to thank the following Carpentries volunteers who joined us
 
 For more information about the reach and impact of this initiative, please visit [this page]({{ site.url }}{{ site.baseurl }}/impact/).
 
-The data for the project has been published under open licenses in Figshare. We look forward to delving deeper into the story and impact of RCCPII. If you want to contribute analysis or visualisations, please download the data from the [Figshare page](https://figshare.com/articles/RCCPII_Data/7928480). There are still many untold stories including for example, how people migrated through the project from learners, to helpers, to instructors.
+The data for the project has been published under open licenses in Figshare. We look forward to delving deeper into the story and impact of RCCPII. If you want to contribute analyses or visualisations, please download the data from the [Figshare page](https://figshare.com/articles/RCCPII_Data/7928480). There are still many untold stories including for example, how people migrated through the project from learners, to helpers, to instructors.
 
-Twitter data for the hashtag #RCCPII was also obtained from Tweet Binder and is available in [Figshare under open licenses](https://figshare.com/articles/RCCPII_Tweets/7938035). There aren't too many, which is evident from the fact that South African academia is in general not very active on Twitter. We also missed a load of Tweets that were not tagged with #RCCPII.
+Twitter data for the hashtag #RCCPII was also obtained from Tweet Binder and is available in [Figshare](https://figshare.com/articles/RCCPII_Tweets/7938035) under open licenses. There aren't too many, which is evident from the fact that South African academia is in general not very active on Twitter. We also missed a load of Tweets that were not tagged with #RCCPII.
 
 The data can also be visualised online via the R Shiny app that was developed by Katrin Tirok. Please visit [this page to visualise the data](https://tenet-rccpii.github.io/rccpii-2018/impact/visualise/) or see [the source code for the app](https://github.com/katrintirok/rccpii-shinyapp).
 
