@@ -3,9 +3,7 @@ layout: page
 title: "Impact & Reach: Executive Summary"
 teaser: "The RCCPII Capacity Development Initiative reached 775 individuals from 25 out of 26 publicly funded universities as well as several research institutions and councils."
 permalink: "/impact/"
-header:
-  image_fullwidth: "whitebackground.png"
-   
+header: no   
 ---
 
 At the start of the RCCPII Capacity Development Inititive in January 2019, the project team developed a [Theory of Change Model](https://tenet-rccpii.github.io/rccpii-2018/images/RCCPII_ToC2018-03-12.pdf) to plan specific interventions. The aim was to provide capacity development opportunities for the following categories of people:
