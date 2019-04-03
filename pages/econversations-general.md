@@ -11,8 +11,8 @@ These sessions are open to anyone working at or with a higher education or resea
 
 ### Past Sessions
 
-|Date|Topic/Title|Link to registration|Link to slides|
-|----|-----------|--------------------|--------------|
+|Date|Topic/Title|Advertisement|Presentation|Notes|Recording|
+|----|-----------|-------------|------------|-----|---------|
 |23 March 2018|Virtual Platforms for Research and Collaboration|[link](https://www.quicket.co.za/events/27507-rccp-ii-econversation-series-1-virtual-platforms-for-collaboration-and-research/)|[slides](https://figshare.com/articles/RCCPII_eConversations_Virtual_Platforms_for_Research_and_Collaboration/6050171)||[recording](https://youtu.be/RfKWEaFvuAk)|
 |20 April 2018|Joining the South African R-Community|[link](https://www.quicket.co.za/events/42911-rccp-ii-econversation-series-2-joining-the-south-african-r-community/)|[slides](https://prezi.com/view/XRuMQtRSIVBVStP6aRU9/)|[notes](https://etherpad.wikimedia.org/p/rccpii_e-conversation2_20180420)||
 |25 May 2018|Social Media for Research and Education - Sourcing and Sharing Information.|[link](https://www.quicket.co.za/events/47316-rccp-ii-econversation-series-3-social-media-for-research-and-education-getting/#/)|[slides](https://twitter.com/stevedudley_/status/999962889871077376)|[notes](https://etherpad.wikimedia.org/p/r.a4049de9b6025c40eca1a384d5a55e3a)|[recording](https://youtu.be/RqtPTSNuBAQ)|
