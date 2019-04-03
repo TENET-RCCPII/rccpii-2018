@@ -3,8 +3,7 @@ layout: page
 title: "Enablers' Workshops"
 teaser: "Throughout history academic institutions has been divided into cohorts consisting of either <em>academics</em> or <em>support staff</em>. Due to the changing landscapes the siloed approach is no longer effective and <em>enablers</em> need tobecome part of the research or teaching and learning teams. It is also critical that silos are broken down between support departments to minimise duplication and competition and optimise efficiency."
 permalink: "/workshops/enablers/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 ## What is an enabler?
