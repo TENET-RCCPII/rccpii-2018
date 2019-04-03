@@ -3,12 +3,11 @@ layout: shiny
 title: "RCCPII Capacity Development Initiative Data Visualisation"
 teaser: "An R Shiny App was developed to assist with data visualisation."
 permalink: "/impact/visualise/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 Note: The R code for this Shiny App is published under an open source license and available for re-use. Please visit the [source repository on Github](https://github.com/katrintirok/rccpii-shinyapp).
 
-Please be patient while the App is loading.
+<p style="text-align: center;">Please be patient while the App is loading...</p>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.16/iframeResizer.min.js"></script>
 <style>
