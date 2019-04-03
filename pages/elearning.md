@@ -3,8 +3,7 @@ layout: page
 title: "eLearning/Blended Learning Events"
 teaser: "The use of technology to enhance teaching and learning has become critical in today's academic environment."
 permalink: "/workshops/elearning/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 ## 18 June 2019
