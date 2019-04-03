@@ -3,8 +3,7 @@ layout: page
 title: "Identity Management & Federation"
 teaser: "SAFIRE & RCCPII collaborated to host an identity management and federation workshop in March 2019."
 permalink: "/workshops/identity/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 RCCPII and SAFIRE partnered to run an [Identity Management and Federation workshop](https://tenet-rccpii.github.io/identity-2019/) instead of the originally planned network monitoring workshops based on massive demand from tertiary and research institutions in South Africa.

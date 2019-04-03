@@ -3,8 +3,7 @@ layout: page
 title: "RCCP Connecting Universities"
 teaser: "Since 2010 several rural campuses from a variety of universities have benefited from the RCCP project. In 2018 the project <em>RCCP II</em> project team continues to connect universities in South Africa to the Internet. Learn more about the progress and plans."
 permalink: "/connectivity/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 ## Connected Sites

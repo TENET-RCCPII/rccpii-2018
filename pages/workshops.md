@@ -3,8 +3,7 @@ layout: page
 title: "RCCP II Workshops"
 teaser: "The RCCP II Capacity Development team partnered with several organisations and individuals between January 2018 and March 2019 to run a variety of workshops at institutions across the country. The workshops were either aimed specifically at IT staff, in general at support staff from various departments, or at researchers and students."
 permalink: "/workshops/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 The following workshops were planned for 2018/2019:

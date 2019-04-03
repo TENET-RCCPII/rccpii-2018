@@ -3,8 +3,7 @@ layout: page
 title: "RCCP II Code of Conduct"
 teaser: "RCCP II Code of Conduct will apply to all RCCP II Capacity Development activities both in online or in-person format."
 permalink: "/coc/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 RCCP II is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. However, we recognise that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, colour, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.

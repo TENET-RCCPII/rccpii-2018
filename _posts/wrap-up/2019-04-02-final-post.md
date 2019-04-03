@@ -45,6 +45,8 @@ For more information about the reach and impact of this initiative, please visit
 
 The data for the project has been published under open licenses in Figshare. We look forward to delving deeper into the story and impact of RCCPII. If you want to contribute analysis or visualisations, please download the data from the [Figshare page](https://figshare.com/articles/RCCPII_Data/7928480). There are still many untold stories including for example, how people migrated through the project from learners, to helpers, to instructors.
 
+Twitter data for the hashtag #RCCPII was also obtained from Tweet Binder and is available in [Figshare under open licenses](https://figshare.com/articles/RCCPII_Tweets/7938035). There aren't too many, which is evident from the fact that South African academia is in general not very active on Twitter. We also missed a load of Tweets that were not tagged with #RCCPII.
+
 The data can also be visualised online via the R Shiny app that was developed by Katrin Tirok. Please visit [this page to visualise the data](https://tenet-rccpii.github.io/rccpii-2018/impact/visualise/) or see [the source code for the app](https://github.com/katrintirok/rccpii-shinyapp).
 
 We thank the DHET for providing the funding for RCCPII.

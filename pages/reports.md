@@ -3,9 +3,9 @@ layout: page
 title: "RCCP Reports"
 teaser: "All publicly available reports and requests for proposals are accessible from this page."
 permalink: "/about/reports/"
-header: 
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
+
 ## Reports & Discussion Documents
 
 - [RCCP II Progress Report](http://www.usaf.ac.za/wp-content/uploads/2016/09/RCCP-II-Progress-report.pdf) *(September, 2017)*

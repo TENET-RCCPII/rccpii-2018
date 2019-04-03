@@ -3,8 +3,7 @@ layout: page
 title: "RCCP Governance"
 teaser: "The RCCP project is funded by DHET, managed by USAF and implemented by TENET. A steering committee provides oversight."
 permalink: "/about/governance/"
-header: 
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 ## Steering committee
 

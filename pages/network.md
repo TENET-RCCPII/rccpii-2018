@@ -3,9 +3,7 @@ layout: page
 title: "Network Design"
 teaser: "TENET and the NSRC delivered a Network Design workshop in January 2018 in South Africa."
 permalink: "/workshops/network/"
-header:
-  image_fullwidth: "whitebackground.png"
-   
+header: no   
 ---
 
 From 15 - 19 January 2018, the [Network Startup Resource Centre](https://nsrc.org/) ran a Campus Network Design and Operations Workshop in Cape Town, South Africa.

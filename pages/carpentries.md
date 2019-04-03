@@ -3,8 +3,7 @@ layout: page
 title: "The Carpentries for Coding & Data Analysis"
 teaser: "The Carpentries - formally Software and Data Carpentry - aims to teach digital and computational literacy to researchers, postgraduate students, and support staff in IT and the libraries through open access materials and methodologies."
 permalink: "/workshops/carpentries/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 ## About the Carpentries
