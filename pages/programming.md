@@ -3,8 +3,7 @@ layout: page
 title: "The Carpentries for Coding"
 teaser: "Learn to use computational and data analysis tools such as R, Python, SQL, OpenRefine, and Shell more efficiently in research and beyond."
 permalink: "/carpentry/programming/"
-header:
-    image_fullwidth: "header_programming.jpg"
+header: no
 ---
 
 ## Where to find workshops
