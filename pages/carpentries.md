@@ -8,14 +8,14 @@ header: no
 
 ## About the Carpentries
 
-The Carpentries, previously known as two separate organisations - Software Carpentry and Data Carpentry, 
+The Carpentries, previously known as two separate organisations - Software Carpentry and Data Carpentry,
 have been working with South African academics since 2013 to develop digital and computational skills
-locally. Not only do they teach tools such as R, Python, version control with git and Github, but they also 
+locally. Not only do they teach tools such as R, Python, version control with git and Github, but they also
 offer a train-the-trainer workshop.
 
-Over the past six years, almost 30 digital and computational literacy workshops and three in-person 
+Over the past six years, almost 30 digital and computational literacy workshops and three in-person
 train-the-trainer events in South Africa. Visit the official [past](https://software-carpentry.org/workshops/past/)
- and [upcoming](https://software-carpentry.org/workshops/) workshop 
+ and [upcoming](https://software-carpentry.org/workshops/) workshop
 websites to see the Carpentries' global footprint. Local organisations that have hosted these events include:
 
 - University of the Western Cape
@@ -31,11 +31,11 @@ websites to see the Carpentries' global footprint. Local organisations that have
 
 ## Where does the funding come from?
 
-Most of the events that were run in South Africa, have been funded jointly by several grants, individuals, 
+Most of the events that were run in South Africa, have been funded jointly by several grants, individuals,
 companies, and other stakeholders. In some cases workshops require a registration fee to help cover costs.
 
-Since 2016 the <em>RCCP II</em> has co-funded a large number of workshops and instructor training events. 
-<em>RCCP II</em> will continue to fund these workshops in 2018. For more information, please 
+Since 2016 the <em>RCCP II</em> has co-funded a large number of workshops and instructor training events.
+<em>RCCP II</em> will continue to fund these workshops in 2018. For more information, please
 [get in touch](https://docs.google.com/forms/d/e/1FAIpQLScYQU2FSqHBsSOouSkZgS2Qmin2BGF7VIpXg1aSye55XF2VqQ/viewform?usp=sf_link).
 A full list of upcoming workshops and funding opportunities will be posted on the website shortly.
 
@@ -59,7 +59,7 @@ Lessons typically include:
 
 ## Feedback from past workshops in SA
 
-There is a tradition of providing feedback to the community about workshops that have been run. 
+There is a tradition of providing feedback to the community about workshops that have been run.
 Instructors and hosts are encouraged to participate in discussion sessions to share their experiences
 and lessons learned in order to prevent having to reinvent the wheel over and over again.
 
@@ -78,7 +78,7 @@ about their experiences as instructors in other African countries:
 
 ## How can you get involved?
 
-Please email the [African Carpentries Regional Coordinator](mailto:amin-afr@carpentries.org) to request a workshop or get more information. 
+Please email the [African Carpentries Regional Coordinator](mailto:amin-afr@carpentries.org) to request a workshop or get more information.
 
 You can also complete the [online workshop request form](https://amy.carpentries.org/forms/workshop/).
 
@@ -86,25 +86,20 @@ You can also complete the [online workshop request form](https://amy.carpentries
 
 |Start Date|End Date|Venue|Type|Workshop Website|
 |----------|--------|-----|----|----------------|
-|2018-03-15|2018-03-16|University of Cape Town|[Data Carpentry](https://datacarpentry.org)|https://katrintirok.github.io/2018-03-15-satRday/|
-|2018-04-06|2018-04-06|University of the Western Cape|[Data Carpentry](https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-04-06-GalaxyConf-R/|
-|2018-05-09|2018-05-11|University of the Free State|[Library Carpentry](https://librarycarpentry.org/)|https://ufshpc.github.io/2018-05-09-ufs/|
-|2018-07-11|2018-07-13|University of Mpumalanga|[Data Carpentry](https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-07-11-UMP/|
-|2018-07-18|2018-07-20|North-West University - Mahikeng Campus|[Data Carpentry](https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/
-|2018-09-03|2018-09-05|Birchwood Hotel & Conference Facilities|[Data Carpentry](https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-Social-Sciences/|
-|2018-09-03|2018-09-05|Birchwood Hotel & Conference Facilities|[Software Carpentry](https://software-carpentry.org)|https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-SWC/|
-|2018-09-03|2018-09-05|Birchwood Hotel & Conference Facilities|[Library Carpentry](https://librarycarpentry.org)|https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC|
-|2018-10-31|2018-11-02|Sefako Makgatho Health Sciences University|[Data Carpentry](https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-10-31-SMU/|
-|2018-11-07|2018-11-09|Rhodes University|[Data Carpentry](https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-11-07-Rhodes-Uni/|
-|2018-11-12|2018-11-14|University of Fort Hare|Data Carpentry(https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-11-12-UFH-Alice/|
-|2018-11-13|2018-11-15|University of Venda|Data Carpentry(https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-11-13-UNIVEN/|
-|2018-12-04|2018-12-06|Durban University of Technology|Data Carpentry(https://datacarpentry.org)|https://tenet-rccpii.github.io/2018-12-04-DUT-DC/|
-|2018-12-04|2018-12-06|Durban University of Technology|Software Carpentry(https://software-carpentry.org)|https://tenet-rccpii.github.io/2018-12-04-DUT-SWC/|
-|2019-01-15|2019-01-17|University of Zululand|Data Carpentry(https://datacarpentry.org)|https://tenet-rccpii.github.io/2019-01-15-UNIZULU/|
-|2019-01-30|2019-02-01|Walter Sisulu University|Data Carpentry(https://datacarpentry.org)|https://tenet-rccpii.github.io/2019-01-30-WSU-EastLondon/|
-|2019-03-18|2019-03-20|Sol Plaatjie University|Data Carpentry(https://datacarpentry.org)|https://tenet-rccpii.github.io/2019-03-18-SPU/|
-
-
-
-
-
+|2018-03-15|2018-03-16|University of Cape Town|[Data Carpentry](https://datacarpentry.org)|[https://katrintirok.github.io/2018-03-15-satRday/](https://katrintirok.github.io/2018-03-15-satRday/)|
+|2018-04-06|2018-04-06|University of the Western Cape|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-04-06-GalaxyConf-R/](https://tenet-rccpii.github.io/2018-04-06-GalaxyConf-R/)|
+|2018-05-09|2018-05-11|University of the Free State|[Library Carpentry](https://librarycarpentry.org/)|[https://ufshpc.github.io/2018-05-09-ufs/](https://ufshpc.github.io/2018-05-09-ufs/)|
+|2018-07-11|2018-07-13|University of Mpumalanga|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-07-11-UMP/](https://tenet-rccpii.github.io/2018-07-11-UMP/)|
+|2018-07-18|2018-07-20|North-West University - Mahikeng Campus|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/](https://tenet-rccpii.github.io/2018-07-18-NWU-Mafikeng/)|
+|2018-09-03|2018-09-05|Birchwood Hotel & Conference Facilities|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-Social-Sciences/](https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-Social-Sciences/)|
+|2018-09-03|2018-09-05|Birchwood Hotel & Conference Facilities|[Software Carpentry](https://software-carpentry.org)|[https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-SWC/](https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-SWC/)|
+|2018-09-03|2018-09-05|Birchwood Hotel & Conference Facilities|[Library Carpentry](https://librarycarpentry.org)|[https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC](https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC)|
+|2018-10-31|2018-11-02|Sefako Makgatho Health Sciences University|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-10-31-SMU/](https://tenet-rccpii.github.io/2018-10-31-SMU/)|
+|2018-11-07|2018-11-09|Rhodes University|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-11-07-Rhodes-Uni/](https://tenet-rccpii.github.io/2018-11-07-Rhodes-Uni/)|
+|2018-11-12|2018-11-14|University of Fort Hare|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-11-12-UFH-Alice/](https://tenet-rccpii.github.io/2018-11-12-UFH-Alice/)|
+|2018-11-13|2018-11-15|University of Venda|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-11-13-UNIVEN/](https://tenet-rccpii.github.io/2018-11-13-UNIVEN/)|
+|2018-12-04|2018-12-06|Durban University of Technology|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2018-12-04-DUT-DC/](https://tenet-rccpii.github.io/2018-12-04-DUT-DC/)|
+|2018-12-04|2018-12-06|Durban University of Technology|[Software Carpentry](https://software-carpentry.org)|[https://tenet-rccpii.github.io/2018-12-04-DUT-SWC/](https://tenet-rccpii.github.io/2018-12-04-DUT-SWC/)|
+|2019-01-15|2019-01-17|University of Zululand|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2019-01-15-UNIZULU/](https://tenet-rccpii.github.io/2019-01-15-UNIZULU/)|
+|2019-01-30|2019-02-01|Walter Sisulu University|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2019-01-30-WSU-EastLondon/](https://tenet-rccpii.github.io/2019-01-30-WSU-EastLondon/)|
+|2019-03-18|2019-03-20|Sol Plaatjie University|[Data Carpentry](https://datacarpentry.org)|[https://tenet-rccpii.github.io/2019-03-18-SPU/](https://tenet-rccpii.github.io/2019-03-18-SPU/)|
