@@ -3,8 +3,7 @@ layout: page
 title: "FAQ: Video Conferencing Best Practices"
 teaser: "10 Tips for participating successfully in an online meeting."
 permalink: "/econversations/video-best-practices/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 ## Tip 1: Test before the time
