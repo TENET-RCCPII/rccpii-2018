@@ -3,8 +3,7 @@ layout: page
 title: "eConversations: General Series"
 teaser: "The worlds of teaching and learning, and research are changing rapidly. Mostly due to advances in technology, connnectedness and the shear amount of information that is available at the tip of ones fingers today. In the General eConversations Series, we will attempt to provide conversation opportunities about topics that is relevant to academics and support staff at a 21st century academic institution."
 permalink: "/econversations/general/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 These sessions are open to anyone working at or with a higher education or research institution in South Africa. That includes support staff from any department, researchers, lecturers, management, and students.
