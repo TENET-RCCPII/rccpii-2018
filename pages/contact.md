@@ -15,3 +15,6 @@ For quiries related to [TENET](https://www.tenet.ac.za/contact)
 
 For quiries related to [the Capacity Development Initiative](http://talarify.co.za/)
 
+## Questions about the project after 31 March 2019
+
+Please contact us at [rccpii@googlegroups.com](mailto:rccpii@googlegroups.com). Although RCCPII has come to an end and project members have moved on, we'll try to respond timeously.
