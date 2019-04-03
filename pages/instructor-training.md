@@ -3,8 +3,7 @@ layout: page
 title: "Carpentry Instructor Training"
 teaser: "Carpentry instructor training focuses on helping those who are already familiar with programming and data analysis tools, to teach better. Specifically to novices."
 permalink: "/workshops/instructor-training/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 ## About Carpentry Instructor Training
