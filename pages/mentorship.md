@@ -3,8 +3,7 @@ layout: page
 title: "Mentorship Opportunities"
 teaser: "Mentorship are critical for sustainable development of new skills as well as research and teaching and learning cultures. RCCP II will focus on mentoring Carpentry Instructors in 2018/2019 but hope to learn from the experience and expand these mentorship opportunities in future."
 permalink: "/mentorship/"
-header:
-    image_fullwidth: "whitebackground.png"
+header: no
 ---
 
 ## Online Lesson Participation
