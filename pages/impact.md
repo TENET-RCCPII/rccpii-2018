@@ -16,7 +16,7 @@ We also aimed to provide a large number of opportunities for these groups of peo
 
 ## Activities 
 
-The RCCPII Capacity Development Initiative hosted 47 activities in 15 months. The programme included 21 online and 25 in-person activities and reached 775 individuals with many participating in more than one activity. A total of 1,180 participants took part in the programme.
+The RCCPII Capacity Development Initiative hosted 47 activities in 15 months. The programme included 21 online and 25 in-person activities and reached 775 individuals. Since several participants joined more than one activity a total of 1,180 participants took part across the full programme.
 
 The map below shows the spread of activities across South Africa.
 ![Map showing RCCPPII activities]({{ site.url }}{{ site.baseurl }}/images/activities_map.png)
