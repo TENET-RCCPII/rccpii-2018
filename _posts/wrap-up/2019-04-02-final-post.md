@@ -2,7 +2,7 @@
 layout: page
 subheadline: RCCPII Wraps Up
 title:  "Closing Out the RCCPII Capacity Development Initiative"
-teaser: "In 15 months we reached 1,180 people from 74 organisations (including 25 out of 26 publicly funded universities) and 17 countries."
+teaser: "In 15 months we reached 1,180 people from 74 organisations (including 25 out of 26 publicly funded universities)."
 meta_teaser: ""
 breadcrumb: true
 categories:
