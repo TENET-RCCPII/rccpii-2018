@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: The Power of Online Meetings
-title:  "RCCPII Collaborates internationally to Create Awareness of Online Meetings"
+title:  "RCCPII Collaborates Internationally to Create Awareness of Online Meetings"
 teaser: "Throughout the time that RCCPII ran, we realised that a very large percentage of
 researchers, students, and support staff at South African Universities, is not using online meeting platforms 
 regularly. We want to change that and help our colleagues grow the capacity to meet with anyone, from anywhere to 
