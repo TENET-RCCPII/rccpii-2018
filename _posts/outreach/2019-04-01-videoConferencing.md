@@ -19,26 +19,18 @@ tags:
 author: Anelda van der Walt
 ---
 
-In April RCCPII will collaborate with Banele Mashinini from TENET, Dimple Sokartara from [GÉANT](https://www.geant.org/) and
-Hastings Ndebvu from [UbuntuNet Alliance](https://ubuntunet.net/) to create awareness around the benefits of online meetings
-for researchers and students in Africa.
+Technology and connectivity have made it easier to meet online. Despite this, many students and academics are still not sharing in the benefits that video platforms bring in terms of meetings, learning, teaching, and collaborations.
 
-As part of the RCCPII capacity development initiative, several online activities were run. This included 
-[eConversations](https://tenet-rccpii.github.io/rccpii-2018/econversations/general/), 
-[online mentoring opportunities](https://tenet-rccpii.github.io/rccpii-2018/mentorship/), and 
-[online training](https://tenet-rccpii.github.io/rccpii-2018/carpentries/online-mentorship/). 
+RCCPII, TENET, GÉANT and UbuntuNet Alliance are collaborating to develop a short video clip featuring students and academics who have gained from using video conferencing tools to further their work or studies.
 
-Online meetings, presentations, and training is supposedly a cheaper way to get access to information. There are discussions
-about the challenges of this form of meetup in many other fora - including challenges around internet connectivity, 
-technology (i.e. laptops/devices age, setup, etc) and more. _But despite the challenges, there are many African-based colleagues 
-who have benefited tremendously from joining or initiating online meetings_.
+We want to hear from you. Submit a **short** video clip (1 – 5 minutes) or a few sentences about how video conferencing has impacted your work or studies. We will combine these resources and share it with the broader community to help create awareness.
 
-We want to hear from you if you have benefited from joining or hosting online meetings to facilitate collaboration, teaching, or
-learning!
+All submissions will be credited to the original authors. Anonymous submissions will also be accepted. Materials will be made available under the Creative Commons license (CC – BY) to facilitate sharing and reuse. 
 
-For more information, please see our letter below. You can submit a short video clip or some text describing your experience
-through our [_online form_](https://forms.gle/wEX28THsWy6mBSw7A) or by [_emailing us_](mailto:videoconferencing-academia).
+Please submit your video clip and/or paragraph via the [**online form**](https://forms.gle/SvVu57N4RtrN4xg18) before 17 April 2019.
 
-We look forward to seeing your contributions and bringing this amazingly empowering technology to more people.
+For inquiries, please contact us at [videoconferencing-academia@googlegroups.com](mailto:videoconferencing-academia@googlegroups.com). Please share this request with colleagues who may want to share their story about using video conferencing/online meetings in academia.
 
-<iframe width=600 height=500 src="https://docs.google.com/document/d/e/2PACX-1vS8GX4LsyrEN2EYo2lahVRDoaE7smgQkBOXjIjmfVqwZJ529t_O41ZPLWLU65ChpFV1aE0qosNiQw2w/pub?embedded=true"></iframe>
+Great tips on creating good video clips are available from [GÉANT](http://ow.ly/JpPY30odtqC).  
+
+Looking forward to hearing from you.
