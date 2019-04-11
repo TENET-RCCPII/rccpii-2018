@@ -41,4 +41,4 @@ through our [_online form_](https://forms.gle/wEX28THsWy6mBSw7A) or by [_emailin
 
 We look forward to seeing your contributions and bringing this amazingly empowering technology to more people.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vS8GX4LsyrEN2EYo2lahVRDoaE7smgQkBOXjIjmfVqwZJ529t_O41ZPLWLU65ChpFV1aE0qosNiQw2w/pub?embedded=true"></iframe>
+<iframe width=600 height=500 src="https://docs.google.com/document/d/e/2PACX-1vS8GX4LsyrEN2EYo2lahVRDoaE7smgQkBOXjIjmfVqwZJ529t_O41ZPLWLU65ChpFV1aE0qosNiQw2w/pub?embedded=true"></iframe>
