@@ -30,8 +30,8 @@ As part of the RCCPII capacity development initiative, several online activities
 
 Online meetings, presentations, and training is supposedly a cheaper way to get access to information. There are discussions
 about the challenges of this form of meetup in many other fora - including challenges around internet connectivity, 
-technology (i.e. laptops/devices age, setup, etc) and more. But in despite the challenges, there are many African-based colleagues 
-who have benefited tremendously from joining or initiating online meetings.
+technology (i.e. laptops/devices age, setup, etc) and more. _But despite the challenges, there are many African-based colleagues 
+who have benefited tremendously from joining or initiating online meetings_.
 
 We want to hear from you if you have benefited from joining or hosting online meetings to facilitate collaboration, teaching, or
 learning!
